@@ -1,0 +1,57 @@
+{
+  "uid" : "1c26b253f93fed9a",
+  "name" : "updateKoiFish_shouldUpdateKoiFish()",
+  "fullName" : "com.services.IKoiFishServiceTest.updateKoiFish_shouldUpdateKoiFish",
+  "historyId" : "e387eea1f3c6a40d7bf6e08b9054b35c",
+  "time" : {
+    "start" : 1731155886731,
+    "stop" : 1731155886786,
+    "duration" : 55
+  },
+  "description" : "",
+  "status" : "broken",
+  "statusMessage" : "Index: -1, Size: 0",
+  "statusTrace" : "java.lang.IndexOutOfBoundsException: Index: -1, Size: 0\r\n\tat java.base/java.util.LinkedList.checkElementIndex(LinkedList.java:559)\r\n\tat java.base/java.util.LinkedList.get(LinkedList.java:480)\r\n\tat com.product.server.koi_control_application.service.IKoiFishServiceImpl.getLastestKoigrownId(IKoiFishServiceImpl.java:414)\r\n\tat com.product.server.koi_control_application.service.IKoiFishServiceImpl.updateKoiFish_aroundBody6(IKoiFishServiceImpl.java:160)\r\n\tat com.product.server.koi_control_application.service.IKoiFishServiceImpl$AjcClosure7.run(IKoiFishServiceImpl.java:1)\r\n\tat org.springframework.transaction.aspectj.AbstractTransactionAspect.ajc$around$org_springframework_transaction_aspectj_AbstractTransactionAspect$1$2a73e96cproceed(AbstractTransactionAspect.aj:67)\r\n\tat org.springframework.transaction.aspectj.AbstractTransactionAspect$AbstractTransactionAspect$1.proceedWithInvocation(AbstractTransactionAspect.aj:73)\r\n\tat org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:379)\r\n\tat org.springframework.transaction.aspectj.AbstractTransactionAspect.ajc$around$org_springframework_transaction_aspectj_AbstractTransactionAspect$1$2a73e96c(AbstractTransactionAspect.aj:71)\r\n\tat com.product.server.koi_control_application.service.IKoiFishServiceImpl.updateKoiFish(IKoiFishServiceImpl.java:115)\r\n\tat com.services.IKoiFishServiceTest.updateKoiFish_shouldUpdateKoiFish(IKoiFishServiceTest.java:141)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:568)\r\n\tat java.base/java.util.ArrayList.forEach(ArrayList.java:1511)\r\n\tat java.base/java.util.ArrayList.forEach(ArrayList.java:1511)\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "24744@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.IKoiFishServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.IKoiFishServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "updateKoiFish_shouldUpdateKoiFish"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.IKoiFishServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1c26b253f93fed9a.json",
+  "parameterValues" : [ ]
+}

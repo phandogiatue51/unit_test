@@ -1,0 +1,57 @@
+{
+  "uid" : "f5698aa58041e73f",
+  "name" : "addKoiFish_shouldSaveKoiFish()",
+  "fullName" : "com.services.IKoiFishServiceTest.addKoiFish_shouldSaveKoiFish",
+  "historyId" : "479b0d1cfef387c3d501d211a7fc0465",
+  "time" : {
+    "start" : 1730170772769,
+    "stop" : 1730170772786,
+    "duration" : 17
+  },
+  "description" : "",
+  "status" : "broken",
+  "statusMessage" : "KoiFish not found",
+  "statusTrace" : "com.product.server.koi_control_application.customException.NotFoundException: KoiFish not found\r\n\tat com.product.server.koi_control_application.service.IKoiFishServiceImpl.lambda$getKoiFishsaved$2(IKoiFishServiceImpl.java:81)\r\n\tat java.base/java.util.Optional.orElseThrow(Optional.java:403)\r\n\tat com.product.server.koi_control_application.service.IKoiFishServiceImpl.getKoiFishsaved(IKoiFishServiceImpl.java:81)\r\n\tat com.product.server.koi_control_application.service.IKoiFishServiceImpl.addKoiFish_aroundBody0(IKoiFishServiceImpl.java:69)\r\n\tat com.product.server.koi_control_application.service.IKoiFishServiceImpl$AjcClosure1.run(IKoiFishServiceImpl.java:1)\r\n\tat org.springframework.transaction.aspectj.AbstractTransactionAspect.ajc$around$org_springframework_transaction_aspectj_AbstractTransactionAspect$1$2a73e96cproceed(AbstractTransactionAspect.aj:67)\r\n\tat org.springframework.transaction.aspectj.AbstractTransactionAspect$AbstractTransactionAspect$1.proceedWithInvocation(AbstractTransactionAspect.aj:73)\r\n\tat org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:379)\r\n\tat org.springframework.transaction.aspectj.AbstractTransactionAspect.ajc$around$org_springframework_transaction_aspectj_AbstractTransactionAspect$1$2a73e96c(AbstractTransactionAspect.aj:71)\r\n\tat com.product.server.koi_control_application.service.IKoiFishServiceImpl.addKoiFish(IKoiFishServiceImpl.java:43)\r\n\tat com.services.IKoiFishServiceTest.addKoiFish_shouldSaveKoiFish(IKoiFishServiceTest.java:91)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:568)\r\n\tat java.base/java.util.ArrayList.forEach(ArrayList.java:1511)\r\n\tat java.base/java.util.ArrayList.forEach(ArrayList.java:1511)\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "17840@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.IKoiFishServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.IKoiFishServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "addKoiFish_shouldSaveKoiFish"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.IKoiFishServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f5698aa58041e73f.json",
+  "parameterValues" : [ ]
+}

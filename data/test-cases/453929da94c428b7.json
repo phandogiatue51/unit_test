@@ -1,0 +1,97 @@
+{
+  "uid" : "453929da94c428b7",
+  "name" : "getFileName_shouldReturnFileName()",
+  "fullName" : "com.services.ImageServiceTest.getFileName_shouldReturnFileName",
+  "historyId" : "9431bc698cee677e94be27596eca9c7c",
+  "time" : {
+    "start" : 1731161796441,
+    "stop" : 1731161796446,
+    "duration" : 5
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "17332@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.ImageServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.ImageServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getFileName_shouldReturnFileName"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.ImageServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "85544051d0229da7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1731155889669,
+        "stop" : 1731155889683,
+        "duration" : 14
+      }
+    }, {
+      "uid" : "bab4bb33ccd369f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730432621953,
+        "stop" : 1730432621965,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "5bf0b2b587a0c49b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730176354640,
+        "stop" : 1730176354657,
+        "duration" : 17
+      }
+    }, {
+      "uid" : "a94453920f2dba13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730171204258,
+        "stop" : 1730171204265,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "51d68d003de56beb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730170774396,
+        "stop" : 1730170774396,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "453929da94c428b7.json",
+  "parameterValues" : [ ]
+}

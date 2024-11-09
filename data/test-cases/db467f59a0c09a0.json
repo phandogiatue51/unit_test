@@ -1,0 +1,55 @@
+{
+  "uid" : "db467f59a0c09a0",
+  "name" : "getCategoryById_shouldReturnCategory_whenExists()",
+  "fullName" : "com.services.CategoryServiceTest.getCategoryById_shouldReturnCategory_whenExists",
+  "historyId" : "b0591ae827b5f85a14204ecc87d41b95",
+  "time" : {
+    "start" : 1730432587885,
+    "stop" : 1730432587895,
+    "duration" : 10
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "16288@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.CategoryServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.CategoryServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getCategoryById_shouldReturnCategory_whenExists"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.CategoryServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "db467f59a0c09a0.json",
+  "parameterValues" : [ ]
+}

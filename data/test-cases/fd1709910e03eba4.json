@@ -1,0 +1,97 @@
+{
+  "uid" : "fd1709910e03eba4",
+  "name" : "deleteWaterParameter_shouldThrowNotFoundException_whenParameterNotFound()",
+  "fullName" : "com.services.IWaterParameterServiceTest.deleteWaterParameter_shouldThrowNotFoundException_whenParameterNotFound",
+  "historyId" : "c73510e2788ce036981b61f1c54c9a56",
+  "time" : {
+    "start" : 1731161795475,
+    "stop" : 1731161795487,
+    "duration" : 12
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "17332@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.IWaterParameterServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.IWaterParameterServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "deleteWaterParameter_shouldThrowNotFoundException_whenParameterNotFound"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.IWaterParameterServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a68b357b8875eeba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1731155888592,
+        "stop" : 1731155888604,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "a5c9e857e1075c14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730432620172,
+        "stop" : 1730432620181,
+        "duration" : 9
+      }
+    }, {
+      "uid" : "b4e1ad29b0bed548",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730176353591,
+        "stop" : 1730176353624,
+        "duration" : 33
+      }
+    }, {
+      "uid" : "debed34f0022255a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730171203449,
+        "stop" : 1730171203449,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f70dc693f070a0fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730170773847,
+        "stop" : 1730170773862,
+        "duration" : 15
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fd1709910e03eba4.json",
+  "parameterValues" : [ ]
+}

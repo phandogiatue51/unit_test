@@ -1,0 +1,1151 @@
+[ {
+  "uid" : "6268f215276185c5",
+  "name" : "createProduct_ShouldSaveProduct_WhenNoImageProvided()",
+  "time" : {
+    "start" : 1731161802357,
+    "stop" : 1731161802368,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "83ab3d3bb5067c45",
+  "name" : "deleteImage_shouldNotThrowException_whenImageDoesNotExist()",
+  "time" : {
+    "start" : 1731161796935,
+    "stop" : 1731161796947,
+    "duration" : 12
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64f1260fd72e536c",
+  "name" : "createCart_shouldThrowBadRequest_whenInsufficientStock()",
+  "time" : {
+    "start" : 1731161799923,
+    "stop" : 1731161799932,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a8ed70df694cbe12",
+  "name" : "getAll_shouldReturnAllFeedbacks()",
+  "time" : {
+    "start" : 1731161801451,
+    "stop" : 1731161801451,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60e7503d2b5a052e",
+  "name" : "addCategory_shouldSaveCategory()",
+  "time" : {
+    "start" : 1731161762085,
+    "stop" : 1731161771293,
+    "duration" : 9208
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6124bb539b2bdd9e",
+  "name" : "createOrder_ShouldThrowNotFoundException_WhenCartIsEmpty()",
+  "time" : {
+    "start" : 1731161801943,
+    "stop" : 1731161801953,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8592fa4e7f6cccd0",
+  "name" : "updateKoiFish_shouldUpdateKoiFish()",
+  "time" : {
+    "start" : 1731161793847,
+    "stop" : 1731161793890,
+    "duration" : 43
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3d82ca91b07f5fa2",
+  "name" : "getAllCategories_shouldReturnCategories()",
+  "time" : {
+    "start" : 1731161771954,
+    "stop" : 1731161771964,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9949df9587524657",
+  "name" : "createFeedback_shouldSaveFeedback()",
+  "time" : {
+    "start" : 1731161801465,
+    "stop" : 1731161801475,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8f50681aa6e83ab",
+  "name" : "updatePackage_ShouldUpdatePackage_WhenExists()",
+  "time" : {
+    "start" : 1731161797727,
+    "stop" : 1731161797754,
+    "duration" : 27
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "83423724b9f908e0",
+  "name" : "saveUser_ShouldSaveUser_WhenRegistrationIsValid()",
+  "time" : {
+    "start" : 1731161798277,
+    "stop" : 1731161798292,
+    "duration" : 15
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "41a012eff0f348f8",
+  "name" : "createCart_shouldThrowIllegalAccess_whenUserIdDoesNotMatch()",
+  "time" : {
+    "start" : 1731161799769,
+    "stop" : 1731161799794,
+    "duration" : 25
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a78f5e187a6ecb",
+  "name" : "updateCart_shouldThrowNotFound_whenCartDoesNotExist()",
+  "time" : {
+    "start" : 1731161799883,
+    "stop" : 1731161799896,
+    "duration" : 13
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8ecbaf5572aac5",
+  "name" : "getKoiFishsByPondId_shouldReturnPageOfKoiFish()",
+  "time" : {
+    "start" : 1731161773766,
+    "stop" : 1731161775002,
+    "duration" : 1236
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "453929da94c428b7",
+  "name" : "getFileName_shouldReturnFileName()",
+  "time" : {
+    "start" : 1731161796441,
+    "stop" : 1731161796446,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d13fb6f83056b4bb",
+  "name" : "saveWaterParameter_shouldUpdateExistingWaterParameter()",
+  "time" : {
+    "start" : 1731161795092,
+    "stop" : 1731161795443,
+    "duration" : 351
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b353dfd36749a831",
+  "name" : "deleteWaterParameter_shouldDeleteWaterParameter()",
+  "time" : {
+    "start" : 1731161795549,
+    "stop" : 1731161795550,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a7482b8158c0bab1",
+  "name" : "getWaterParameterByPondId_shouldThrowNotFoundException_whenParameterNotFound()",
+  "time" : {
+    "start" : 1731161795458,
+    "stop" : 1731161795467,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f8d604a8cc958c76",
+  "name" : "getTopSellingProducts_shouldReturnTopSellingProducts()",
+  "time" : {
+    "start" : 1731161800644,
+    "stop" : 1731161800652,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "be2b9659c952acc8",
+  "name" : "createFeedback_shouldThrowNotFoundException_whenUserOrProductNotFound()",
+  "time" : {
+    "start" : 1731161801012,
+    "stop" : 1731161801443,
+    "duration" : 431
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db55013653c53548",
+  "name" : "getProduct_ShouldReturnProduct_WhenExists()",
+  "time" : {
+    "start" : 1731161802325,
+    "stop" : 1731161802334,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e794b15f6a282da",
+  "name" : "updateCategory_shouldUpdateFields_whenValidInput()",
+  "time" : {
+    "start" : 1731161771899,
+    "stop" : 1731161771930,
+    "duration" : 31
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "54b0ffd3c3daf01d",
+  "name" : "deleteProduct_ShouldDeleteProduct_WhenProductExists()",
+  "time" : {
+    "start" : 1731161802375,
+    "stop" : 1731161802386,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd1709910e03eba4",
+  "name" : "deleteWaterParameter_shouldThrowNotFoundException_whenParameterNotFound()",
+  "time" : {
+    "start" : 1731161795475,
+    "stop" : 1731161795487,
+    "duration" : 12
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "151500f979de5354",
+  "name" : "getFeedbacksByProductId_shouldReturnFeedbacks()",
+  "time" : {
+    "start" : 1731161801481,
+    "stop" : 1731161801481,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d4234b12d912c618",
+  "name" : "getCategoryById_shouldThrowNotFound_whenCategoryDoesNotExist()",
+  "time" : {
+    "start" : 1731161771987,
+    "stop" : 1731161771999,
+    "duration" : 12
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf26442458d178b2",
+  "name" : "getListImages_shouldReturnListOfImages()",
+  "time" : {
+    "start" : 1731161796915,
+    "stop" : 1731161796932,
+    "duration" : 17
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "2aa05de398f06782",
+  "name" : "getOrderById_ShouldReturnOrder_WhenExists()",
+  "time" : {
+    "start" : 1731161801558,
+    "stop" : 1731161801930,
+    "duration" : 372
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "93f4241d54c625f5",
+  "name" : "createOrder_ShouldThrowBadRequestException_WhenCartHasDisabledItems()",
+  "time" : {
+    "start" : 1731161801993,
+    "stop" : 1731161801993,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "661b10e698eb8f9f",
+  "name" : "deleteProduct_ShouldThrowNotFoundException_WhenProductDoesNotExist()",
+  "time" : {
+    "start" : 1731161802392,
+    "stop" : 1731161802405,
+    "duration" : 13
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b887795bef454019",
+  "name" : "deleteKoiFish_shouldDeleteKoiFish()",
+  "time" : {
+    "start" : 1731161793808,
+    "stop" : 1731161793822,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d03eb5710daaf649",
+  "name" : "evaluateAndUpdateKoiGrowthStatus_shouldUpdateStatus()",
+  "time" : {
+    "start" : 1731161775010,
+    "stop" : 1731161793768,
+    "duration" : 18758
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd176b0363dda8bc",
+  "name" : "updateImage_shouldUpdateImage()",
+  "time" : {
+    "start" : 1731161796842,
+    "stop" : 1731161796864,
+    "duration" : 22
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "14295f6b33febee0",
+  "name" : "updateBlog_shouldUpdateFields_whenValidInput()",
+  "time" : {
+    "start" : 1731161798856,
+    "stop" : 1731161798866,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6601bcacfc6d5e85",
+  "name" : "updateUser_ShouldThrowNotFoundException_WhenUserDoesNotExist()",
+  "time" : {
+    "start" : 1731161798358,
+    "stop" : 1731161798374,
+    "duration" : 16
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc4fdf6ab46b59e0",
+  "name" : "getTotalSales_shouldReturnTotalSalesData()",
+  "time" : {
+    "start" : 1731161800617,
+    "stop" : 1731161800620,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "63b60a95f9b9454",
+  "name" : "addKoiFish_shouldThrowNotFoundException_whenUserNotFound()",
+  "time" : {
+    "start" : 1731161793784,
+    "stop" : 1731161793801,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db94d840abd44d23",
+  "name" : "createBlog_shouldSaveBlog_whenValidInput()",
+  "time" : {
+    "start" : 1731161798872,
+    "stop" : 1731161798886,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "96519e4445077aed",
+  "name" : "getWaterParameterByPondId_shouldReturnWaterParameter()",
+  "time" : {
+    "start" : 1731161795531,
+    "stop" : 1731161795539,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "278f091bb184b2f9",
+  "name" : "deleteCategory_shouldDeleteCategory_whenExists()",
+  "time" : {
+    "start" : 1731161771937,
+    "stop" : 1731161771948,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7211ee8c42586780",
+  "name" : "saveWaterParameter_shouldThrowNotFoundException_whenPondNotFound()",
+  "time" : {
+    "start" : 1731161795520,
+    "stop" : 1731161795524,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "28d71d1ba7d873c7",
+  "name" : "deleteBlog_shouldDeleteBlog_whenExists()",
+  "time" : {
+    "start" : 1731161798480,
+    "stop" : 1731161798851,
+    "duration" : 371
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e33cb4b3116dd972",
+  "name" : "updateCategory_shouldThrowNotFound_whenCategoryDoesNotExist()",
+  "time" : {
+    "start" : 1731161771856,
+    "stop" : 1731161771870,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "921869e58c84a92a",
+  "name" : "getPackageById_ShouldThrowException_WhenNotExists()",
+  "time" : {
+    "start" : 1731161797766,
+    "stop" : 1731161797766,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "363a18c00ce2c46f",
+  "name" : "getUser_ShouldReturnUser_WhenUserExists()",
+  "time" : {
+    "start" : 1731161798341,
+    "stop" : 1731161798341,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ecc3b55bc596a84a",
+  "name" : "createPackage_ShouldCreatePackage_WhenValid()",
+  "time" : {
+    "start" : 1731161797785,
+    "stop" : 1731161797798,
+    "duration" : 13
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "990423f774de70c2",
+  "name" : "deleteImage_shouldDeleteImage()",
+  "time" : {
+    "start" : 1731161796376,
+    "stop" : 1731161796424,
+    "duration" : 48
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "366d95fcfd7f3d1b",
+  "name" : "addPond_shouldSavePond()",
+  "time" : {
+    "start" : 1731161794646,
+    "stop" : 1731161794669,
+    "duration" : 23
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3f2c51c0ac28cbb9",
+  "name" : "cancelPendingOrder_ShouldThrowIllegalStateException_WhenOrderIsNotPending()",
+  "time" : {
+    "start" : 1731161801954,
+    "stop" : 1731161801967,
+    "duration" : 13
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3471ec9888301833",
+  "name" : "getKoiFish_shouldReturnKoiFish()",
+  "time" : {
+    "start" : 1731161793897,
+    "stop" : 1731161793907,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ffa289c94d723f62",
+  "name" : "saveWaterQualityStandard_shouldSaveQualityStandard()",
+  "time" : {
+    "start" : 1731161795085,
+    "stop" : 1731161795089,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "970f6924a5664e5d",
+  "name" : "createOrder_ShouldCreateOrder_WhenCartIsValid()",
+  "time" : {
+    "start" : 1731161801987,
+    "stop" : 1731161801993,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6b8cd4c8dddd18c",
+  "name" : "createCart_shouldThrowNotFound_whenProductDoesNotExist()",
+  "time" : {
+    "start" : 1731161799942,
+    "stop" : 1731161799950,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "229ea8357a528f91",
+  "name" : "deleteCart_shouldThrowNotFound_whenCartDoesNotExist()",
+  "time" : {
+    "start" : 1731161799903,
+    "stop" : 1731161799914,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53afd5ca4337096c",
+  "name" : "createBlog_shouldThrowBadRequest_whenTitleExists()",
+  "time" : {
+    "start" : 1731161798897,
+    "stop" : 1731161798904,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "51766adea034db79",
+  "name" : "getAllPackages_ShouldReturnListOfPackages()",
+  "time" : {
+    "start" : 1731161797656,
+    "stop" : 1731161797667,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68e85393e1703045",
+  "name" : "createCart_shouldThrowBadRequest_whenItemAlreadyInCart()",
+  "time" : {
+    "start" : 1731161799955,
+    "stop" : 1731161799969,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af375c6749ad0c2f",
+  "name" : "imageExists_shouldReturnFalseIfImageDoesNotExist()",
+  "time" : {
+    "start" : 1731161796873,
+    "stop" : 1731161796885,
+    "duration" : 12
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40d98eb3b9d033e8",
+  "name" : "getCategoryById_shouldReturnCategory_whenExists()",
+  "time" : {
+    "start" : 1731161771972,
+    "stop" : 1731161771979,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "436b4a70255b99f",
+  "name" : "getPonds_shouldReturnListOfPonds()",
+  "time" : {
+    "start" : 1731161794580,
+    "stop" : 1731161794605,
+    "duration" : 25
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2dec5cb974223c4d",
+  "name" : "deleteCategory_shouldThrowNotFound_whenCategoryDoesNotExist()",
+  "time" : {
+    "start" : 1731161771884,
+    "stop" : 1731161771890,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1258dcb300468e28",
+  "name" : "updateProduct_ShouldThrowNotFoundException_WhenProductDoesNotExist()",
+  "time" : {
+    "start" : 1731161802305,
+    "stop" : 1731161802305,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4db7d830b065c66d",
+  "name" : "saveUser_ShouldThrowAlreadyExistedException_WhenEmailExists()",
+  "time" : {
+    "start" : 1731161798190,
+    "stop" : 1731161798261,
+    "duration" : 71
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "1571bfa013069eee",
+  "name" : "checkFishLimit_ShouldReturnTrue_WhenFishCountMeetsLimit()",
+  "time" : {
+    "start" : 1731161797613,
+    "stop" : 1731161797621,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6d4d2e6deb4a630",
+  "name" : "getWaterQualityByPondId_shouldReturnWaterQualityStandard()",
+  "time" : {
+    "start" : 1731161795559,
+    "stop" : 1731161795601,
+    "duration" : 42
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6a0d4d0131c9c2c6",
+  "name" : "updatePassword_ShouldThrowNotFoundException_WhenUserDoesNotExist()",
+  "time" : {
+    "start" : 1731161798173,
+    "stop" : 1731161798185,
+    "duration" : 12
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "95c401e64de29567",
+  "name" : "getPonds_withPagination_shouldReturnPageOfPonds()",
+  "time" : {
+    "start" : 1731161794556,
+    "stop" : 1731161794571,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "df0a304aeb5bb7d4",
+  "name" : "uploadImage_shouldSaveImageAndReturnUrl()",
+  "time" : {
+    "start" : 1731161796963,
+    "stop" : 1731161796997,
+    "duration" : 34
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b37057c9686e63c3",
+  "name" : "getPackageById_ShouldReturnPackage_WhenExists()",
+  "time" : {
+    "start" : 1731161797054,
+    "stop" : 1731161797590,
+    "duration" : 536
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8090f3eb151a9dc6",
+  "name" : "clearCart_shouldClearCart_whenExists()",
+  "time" : {
+    "start" : 1731161799804,
+    "stop" : 1731161799815,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a12b440e2f275d9",
+  "name" : "isProductIsDisabledFromCart_ShouldReturnTrue_WhenDisabledProductExists()",
+  "time" : {
+    "start" : 1731161802292,
+    "stop" : 1731161802301,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4a761ea71238b0f4",
+  "name" : "updateWaterParameter_shouldUpdateWaterParameter()",
+  "time" : {
+    "start" : 1731161795487,
+    "stop" : 1731161795503,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "78c52f8b04aa2c49",
+  "name" : "deleteUser_ShouldThrowNotFoundException_WhenUserDoesNotExist()",
+  "time" : {
+    "start" : 1731161798317,
+    "stop" : 1731161798334,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb71b6bea03bd2a0",
+  "name" : "sendMail_shouldSendEmail()",
+  "time" : {
+    "start" : 1731161800678,
+    "stop" : 1731161800955,
+    "duration" : 277
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de34c4cd782e6d78",
+  "name" : "createProduct_ShouldSaveProduct_WhenImageIsProvided()",
+  "time" : {
+    "start" : 1731161802065,
+    "stop" : 1731161802230,
+    "duration" : 165
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8db26c2a511ac446",
+  "name" : "simulatorDeliveredOrders_ShouldUpdateOrderStatus()",
+  "time" : {
+    "start" : 1731161802432,
+    "stop" : 1731161802811,
+    "duration" : 379
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b14c3fa487c83ef",
+  "name" : "updateUser_ShouldUpdateUser_WhenUserExists()",
+  "time" : {
+    "start" : 1731161798299,
+    "stop" : 1731161798310,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ec71f232dd282da",
+  "name" : "imageExists_shouldReturnTrueIfImageExists()",
+  "time" : {
+    "start" : 1731161796565,
+    "stop" : 1731161796724,
+    "duration" : 159
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bb41f22a1b48d9aa",
+  "name" : "updatePassword_ShouldUpdatePassword_WhenUserExists()",
+  "time" : {
+    "start" : 1731161797892,
+    "stop" : 1731161798165,
+    "duration" : 273
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "be13fbc9ff43d427",
+  "name" : "getDefaultImage_shouldReturnDefaultImageUrl()",
+  "time" : {
+    "start" : 1731161795700,
+    "stop" : 1731161796336,
+    "duration" : 636
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "12493d8c585d982b",
+  "name" : "updatePond_shouldThrowAlreadyExistedException_whenPondNameExists()",
+  "time" : {
+    "start" : 1731161794496,
+    "stop" : 1731161794513,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1c0dc7217f90f466",
+  "name" : "getBlogBySlug_shouldThrowNotFound_whenNoBlogFound()",
+  "time" : {
+    "start" : 1731161798916,
+    "stop" : 1731161798932,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8527948705a6099c",
+  "name" : "getPond_shouldThrowNotFoundException_whenPondNotFound()",
+  "time" : {
+    "start" : 1731161794359,
+    "stop" : 1731161794370,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e08a286a17d6ec1",
+  "name" : "deleteCart_shouldDeleteCart_whenExists()",
+  "time" : {
+    "start" : 1731161799838,
+    "stop" : 1731161799851,
+    "duration" : 13
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8726d3c4dd778d47",
+  "name" : "updateBlog_shouldThrowNotFound_whenBlogDoesNotExist()",
+  "time" : {
+    "start" : 1731161798939,
+    "stop" : 1731161798954,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a6e592ecbfe2119",
+  "name" : "updateProduct_ShouldUpdateProduct_WhenProductExists()",
+  "time" : {
+    "start" : 1731161802259,
+    "stop" : 1731161802288,
+    "duration" : 29
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7fbb7b33a680df2",
+  "name" : "getProduct_ShouldThrowNotFoundException_WhenNotExists()",
+  "time" : {
+    "start" : 1731161802335,
+    "stop" : 1731161802350,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b62747f7dc18f7cd",
+  "name" : "addPond_shouldThrowAlreadyExistedException_whenPondNameExists()",
+  "time" : {
+    "start" : 1731161794694,
+    "stop" : 1731161794703,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d4d009b7d33f7eb",
+  "name" : "getImage_shouldReturnInputStream()",
+  "time" : {
+    "start" : 1731161796891,
+    "stop" : 1731161796905,
+    "duration" : 14
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a9fa5ca23b729bac",
+  "name" : "updatePond_shouldThrowNotFoundException_whenUserNotFound()",
+  "time" : {
+    "start" : 1731161794439,
+    "stop" : 1731161794459,
+    "duration" : 20
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb4128c83736315e",
+  "name" : "addKoiFish_shouldSaveKoiFish()",
+  "time" : {
+    "start" : 1731161793933,
+    "stop" : 1731161793949,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "66bcf402668825b8",
+  "name" : "saveWaterParameter_shouldSaveNewWaterParameter()",
+  "time" : {
+    "start" : 1731161794739,
+    "stop" : 1731161795078,
+    "duration" : 339
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "23acb3928b1e768c",
+  "name" : "deletePond_shouldThrowNotFoundException_whenPondNotFound()",
+  "time" : {
+    "start" : 1731161794622,
+    "stop" : 1731161794636,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2111c4a34677f040",
+  "name" : "getCart_shouldReturnCartProducts()",
+  "time" : {
+    "start" : 1731161799095,
+    "stop" : 1731161799758,
+    "duration" : 663
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e69a624b22521e1a",
+  "name" : "clearCart_shouldThrowNotFound_whenCartIsEmpty()",
+  "time" : {
+    "start" : 1731161799859,
+    "stop" : 1731161799873,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa9f2b33539c0ff3",
+  "name" : "updatePond_shouldUpdatePond()",
+  "time" : {
+    "start" : 1731161794381,
+    "stop" : 1731161794400,
+    "duration" : 19
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1473572603b2d359",
+  "name" : "cancelPendingOrder_ShouldThrowNotFoundException_WhenOrderDoesNotExist()",
+  "time" : {
+    "start" : 1731161801967,
+    "stop" : 1731161801977,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74d7fd63b2c84de5",
+  "name" : "isProductIsDisabledFromCart_ShouldReturnFalse_WhenNoDisabledProducts()",
+  "time" : {
+    "start" : 1731161802240,
+    "stop" : 1731161802250,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84bcda276acc9f3c",
+  "name" : "deletePond_shouldDeletePond()",
+  "time" : {
+    "start" : 1731161794024,
+    "stop" : 1731161794349,
+    "duration" : 325
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d9dca3545ab28cd",
+  "name" : "getOrderStatusBreakdown_shouldReturnOrderStatusData()",
+  "time" : {
+    "start" : 1731161800634,
+    "stop" : 1731161800640,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "345eab2799e42409",
+  "name" : "getListImages_shouldThrowForbiddenException_whenErrorOccurs()",
+  "time" : {
+    "start" : 1731161796485,
+    "stop" : 1731161796554,
+    "duration" : 69
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "315955f5a81a59a",
+  "name" : "uploadImage_shouldThrowException_whenFileIsEmpty()",
+  "time" : {
+    "start" : 1731161796460,
+    "stop" : 1731161796468,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b28ab1878da6811",
+  "name" : "deletePackage_ShouldThrowException_WhenDefaultPackage()",
+  "time" : {
+    "start" : 1731161797687,
+    "stop" : 1731161797701,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "17253d09b8394a54",
+  "name" : "addPond_shouldThrowNotFoundException_whenUserNotFound()",
+  "time" : {
+    "start" : 1731161794470,
+    "stop" : 1731161794481,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "325d659a2c1db60e",
+  "name" : "checkPondLimit_ShouldReturnFalse_WhenPondCountExceedsLimit()",
+  "time" : {
+    "start" : 1731161797714,
+    "stop" : 1731161797719,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5bb2214650c4bd0e",
+  "name" : "createPackage_ShouldThrowException_WhenDefaultPackageExists()",
+  "time" : {
+    "start" : 1731161797629,
+    "stop" : 1731161797638,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f38ed5c7b6f4a9b",
+  "name" : "sendPasswordToEmail_shouldSendPasswordEmail()",
+  "time" : {
+    "start" : 1731161800955,
+    "stop" : 1731161800963,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "850e3add4ad8da2a",
+  "name" : "createCart_shouldSaveCart_whenValidInput()",
+  "time" : {
+    "start" : 1731161799821,
+    "stop" : 1731161799831,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8515b90f3d8ada0b",
+  "name" : "updateImage_shouldThrowException_whenImageDoesNotExist()",
+  "time" : {
+    "start" : 1731161796739,
+    "stop" : 1731161796836,
+    "duration" : 97
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b4b33fb4d57eeee",
+  "name" : "getUser_ShouldThrowNotFoundException_WhenUserDoesNotExist()",
+  "time" : {
+    "start" : 1731161798388,
+    "stop" : 1731161798398,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5fe1d366c3810172",
+  "name" : "deleteUser_ShouldDeleteUser_WhenUserExists()",
+  "time" : {
+    "start" : 1731161798341,
+    "stop" : 1731161798358,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "378dc0b88a71a846",
+  "name" : "getUserGrowthData_shouldReturnUserGrowthData()",
+  "time" : {
+    "start" : 1731161800032,
+    "stop" : 1731161800610,
+    "duration" : 578
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6845ea1c6367c301",
+  "name" : "getKoiFish_shouldThrowNotFoundException_whenKoiFishNotFound()",
+  "time" : {
+    "start" : 1731161793825,
+    "stop" : 1731161793841,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5fb6695c58caee4d",
+  "name" : "getPond_shouldReturnPond()",
+  "time" : {
+    "start" : 1731161794416,
+    "stop" : 1731161794432,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ac401a4afb00a2c4",
+  "name" : "getWaterQualityByPondId_shouldThrowNotFoundException_whenQualityStandardNotFound()",
+  "time" : {
+    "start" : 1731161795661,
+    "stop" : 1731161795670,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

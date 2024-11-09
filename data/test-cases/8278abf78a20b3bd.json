@@ -1,0 +1,55 @@
+{
+  "uid" : "8278abf78a20b3bd",
+  "name" : "createBlog_shouldSaveBlog_whenValidInput()",
+  "fullName" : "com.services.BlogServiceTest.createBlog_shouldSaveBlog_whenValidInput",
+  "historyId" : "657a9db0025a0d2391ad8b5fafd00566",
+  "time" : {
+    "start" : 1730432625798,
+    "stop" : 1730432625816,
+    "duration" : 18
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "16288@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.BlogServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.BlogServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "createBlog_shouldSaveBlog_whenValidInput"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.BlogServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8278abf78a20b3bd.json",
+  "parameterValues" : [ ]
+}

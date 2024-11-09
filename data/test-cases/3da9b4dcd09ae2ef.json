@@ -1,0 +1,55 @@
+{
+  "uid" : "3da9b4dcd09ae2ef",
+  "name" : "deleteBlog_shouldDeleteBlog_whenExists()",
+  "fullName" : "com.services.BlogServiceTest.deleteBlog_shouldDeleteBlog_whenExists",
+  "historyId" : "24fc23ca582d8ea32bb31918f593ce20",
+  "time" : {
+    "start" : 1730176357600,
+    "stop" : 1730176358164,
+    "duration" : 564
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "21104@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.BlogServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.BlogServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "deleteBlog_shouldDeleteBlog_whenExists"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.BlogServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3da9b4dcd09ae2ef.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,97 @@
+{
+  "uid" : "6a0d4d0131c9c2c6",
+  "name" : "updatePassword_ShouldThrowNotFoundException_WhenUserDoesNotExist()",
+  "fullName" : "com.services.UserServiceTest.updatePassword_ShouldThrowNotFoundException_WhenUserDoesNotExist",
+  "historyId" : "affa6dc473a865911095c57969f88050",
+  "time" : {
+    "start" : 1731161798173,
+    "stop" : 1731161798185,
+    "duration" : 12
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "17332@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.UserServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.UserServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "updatePassword_ShouldThrowNotFoundException_WhenUserDoesNotExist"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.UserServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1fe8e724eced1aca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1731155891797,
+        "stop" : 1731155891808,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "859d942e924ae782",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730432624544,
+        "stop" : 1730432624556,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "af7349c191fe185e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730176356864,
+        "stop" : 1730176356882,
+        "duration" : 18
+      }
+    }, {
+      "uid" : "9a2eed436cb96a33",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730171205674,
+        "stop" : 1730171205686,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "e9867fa93fc3710e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730170777065,
+        "stop" : 1730170777081,
+        "duration" : 16
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6a0d4d0131c9c2c6.json",
+  "parameterValues" : [ ]
+}

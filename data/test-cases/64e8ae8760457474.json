@@ -1,0 +1,55 @@
+{
+  "uid" : "64e8ae8760457474",
+  "name" : "updatePond_shouldThrowAlreadyExistedException_whenPondNameExists()",
+  "fullName" : "com.services.IPondServiceTest.updatePond_shouldThrowAlreadyExistedException_whenPondNameExists",
+  "historyId" : "2dbbeae0cc8217d451b98661797ad356",
+  "time" : {
+    "start" : 1730432618852,
+    "stop" : 1730432618860,
+    "duration" : 8
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "16288@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.IPondServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.IPondServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "updatePond_shouldThrowAlreadyExistedException_whenPondNameExists"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.IPondServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "64e8ae8760457474.json",
+  "parameterValues" : [ ]
+}

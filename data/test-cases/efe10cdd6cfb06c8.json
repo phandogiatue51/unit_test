@@ -1,0 +1,55 @@
+{
+  "uid" : "efe10cdd6cfb06c8",
+  "name" : "checkFishLimit_ShouldReturnTrue_WhenFishCountMeetsLimit()",
+  "fullName" : "com.services.PackageServiceTest.checkFishLimit_ShouldReturnTrue_WhenFishCountMeetsLimit",
+  "historyId" : "f7539613c8b1893d49d6fce9c0db7e7e",
+  "time" : {
+    "start" : 1730176356013,
+    "stop" : 1730176356024,
+    "duration" : 11
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "21104@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.PackageServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.PackageServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkFishLimit_ShouldReturnTrue_WhenFishCountMeetsLimit"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.PackageServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "efe10cdd6cfb06c8.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,55 @@
+{
+  "uid" : "1d1167b00a2b808b",
+  "name" : "getTopSellingProducts_shouldReturnTopSellingProducts()",
+  "fullName" : "com.services.DashboardServiceTest.getTopSellingProducts_shouldReturnTopSellingProducts",
+  "historyId" : "fa7692da29793f1d47c8766f730d5c57",
+  "time" : {
+    "start" : 1731155894788,
+    "stop" : 1731155894791,
+    "duration" : 3
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "24744@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.DashboardServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.DashboardServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getTopSellingProducts_shouldReturnTopSellingProducts"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.DashboardServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1d1167b00a2b808b.json",
+  "parameterValues" : [ ]
+}

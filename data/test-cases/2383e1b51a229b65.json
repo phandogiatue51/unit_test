@@ -1,0 +1,57 @@
+{
+  "uid" : "2383e1b51a229b65",
+  "name" : "saveUser_ShouldSaveUser_WhenRegistrationIsValid()",
+  "fullName" : "com.services.UserServiceTest.saveUser_ShouldSaveUser_WhenRegistrationIsValid",
+  "historyId" : "a1419be3a94d7316fc58f716c21c1a9f",
+  "time" : {
+    "start" : 1730170777158,
+    "stop" : 1730170777165,
+    "duration" : 7
+  },
+  "description" : "",
+  "status" : "broken",
+  "statusMessage" : "Cannot invoke \"com.product.server.koi_control_application.enums.UserRoleEnum.getValue()\" because the return value of \"com.product.server.koi_control_application.pojo.request.UserRegister.getRole()\" is null",
+  "statusTrace" : "java.lang.NullPointerException: Cannot invoke \"com.product.server.koi_control_application.enums.UserRoleEnum.getValue()\" because the return value of \"com.product.server.koi_control_application.pojo.request.UserRegister.getRole()\" is null\r\n\tat com.product.server.koi_control_application.service.UserServiceImpl.saveUser_aroundBody0(UserServiceImpl.java:70)\r\n\tat com.product.server.koi_control_application.service.UserServiceImpl$AjcClosure1.run(UserServiceImpl.java:1)\r\n\tat org.springframework.transaction.aspectj.AbstractTransactionAspect.ajc$around$org_springframework_transaction_aspectj_AbstractTransactionAspect$1$2a73e96cproceed(AbstractTransactionAspect.aj:67)\r\n\tat org.springframework.transaction.aspectj.AbstractTransactionAspect$AbstractTransactionAspect$1.proceedWithInvocation(AbstractTransactionAspect.aj:73)\r\n\tat org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:379)\r\n\tat org.springframework.transaction.aspectj.AbstractTransactionAspect.ajc$around$org_springframework_transaction_aspectj_AbstractTransactionAspect$1$2a73e96c(AbstractTransactionAspect.aj:71)\r\n\tat com.product.server.koi_control_application.service.UserServiceImpl.saveUser(UserServiceImpl.java:58)\r\n\tat com.services.UserServiceTest.saveUser_ShouldSaveUser_WhenRegistrationIsValid(UserServiceTest.java:76)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:568)\r\n\tat java.base/java.util.ArrayList.forEach(ArrayList.java:1511)\r\n\tat java.base/java.util.ArrayList.forEach(ArrayList.java:1511)\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "17840@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.UserServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.UserServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "saveUser_ShouldSaveUser_WhenRegistrationIsValid"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.UserServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2383e1b51a229b65.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,97 @@
+{
+  "uid" : "4e08a286a17d6ec1",
+  "name" : "deleteCart_shouldDeleteCart_whenExists()",
+  "fullName" : "com.services.CartServiceTest.deleteCart_shouldDeleteCart_whenExists",
+  "historyId" : "5d57255ac0ec92151bf39975bafef4e9",
+  "time" : {
+    "start" : 1731161799838,
+    "stop" : 1731161799851,
+    "duration" : 13
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "17332@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.CartServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.CartServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "deleteCart_shouldDeleteCart_whenExists"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.CartServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ee8e34080251ba83",
+      "status" : "passed",
+      "time" : {
+        "start" : 1731155893811,
+        "stop" : 1731155893824,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "4a84110d72361c5b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730432626664,
+        "stop" : 1730432626680,
+        "duration" : 16
+      }
+    }, {
+      "uid" : "aade3f41250e0c19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730176359399,
+        "stop" : 1730176359414,
+        "duration" : 15
+      }
+    }, {
+      "uid" : "e8eb4dd53c594931",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730171207267,
+        "stop" : 1730171207283,
+        "duration" : 16
+      }
+    }, {
+      "uid" : "791146ea62aa0cc8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1730170770284,
+        "stop" : 1730170770285,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4e08a286a17d6ec1.json",
+  "parameterValues" : [ ]
+}

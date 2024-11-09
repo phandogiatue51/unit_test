@@ -1,0 +1,55 @@
+{
+  "uid" : "9e79c7425efcf2f0",
+  "name" : "cancelPendingOrder_ShouldThrowIllegalStateException_WhenOrderIsNotPending()",
+  "fullName" : "com.services.OrderServiceTest.cancelPendingOrder_ShouldThrowIllegalStateException_WhenOrderIsNotPending",
+  "historyId" : "bdd865501ceafa4ccc2ffe60f55dd5dc",
+  "time" : {
+    "start" : 1730176362715,
+    "stop" : 1730176362754,
+    "duration" : 39
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "21104@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.OrderServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.OrderServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "cancelPendingOrder_ShouldThrowIllegalStateException_WhenOrderIsNotPending"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.OrderServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9e79c7425efcf2f0.json",
+  "parameterValues" : [ ]
+}

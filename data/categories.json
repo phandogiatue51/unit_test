@@ -1,0 +1,285 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Cannot invoke \"com.product.server.koi_control_application.model.Category.getName()\" because \"updatedCategory\" is null",
+      "children" : [ {
+        "name" : "updateCategory_shouldUpdateFields_whenValidInput()",
+        "uid" : "4e794b15f6a282da",
+        "parentUid" : "8f2d078bd8b567e618d749041d99eb07",
+        "status" : "broken",
+        "time" : {
+          "start" : 1731161771899,
+          "stop" : 1731161771930,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8f2d078bd8b567e618d749041d99eb07"
+    }, {
+      "name" : "Index: -1, Size: 0",
+      "children" : [ {
+        "name" : "updateKoiFish_shouldUpdateKoiFish()",
+        "uid" : "8592fa4e7f6cccd0",
+        "parentUid" : "3881232ebe2ac560a908041af8c42123",
+        "status" : "broken",
+        "time" : {
+          "start" : 1731161793847,
+          "stop" : 1731161793890,
+          "duration" : 43
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3881232ebe2ac560a908041af8c42123"
+    }, {
+      "name" : "KoiFish not found",
+      "children" : [ {
+        "name" : "addKoiFish_shouldSaveKoiFish()",
+        "uid" : "cb4128c83736315e",
+        "parentUid" : "f800aade04849f0ef9885244273a5941",
+        "status" : "broken",
+        "time" : {
+          "start" : 1731161793933,
+          "stop" : 1731161793949,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f800aade04849f0ef9885244273a5941"
+    }, {
+      "name" : "Cannot invoke \"com.product.server.koi_control_application.model.WaterQualityStandard.calculateValues(java.math.BigDecimal, java.util.List)\" because \"waterQualityStandard\" is null",
+      "children" : [ {
+        "name" : "updatePond_shouldUpdatePond()",
+        "uid" : "fa9f2b33539c0ff3",
+        "parentUid" : "c5e9d86a86b06cfde1a9d9c9f6de2104",
+        "status" : "broken",
+        "time" : {
+          "start" : 1731161794381,
+          "stop" : 1731161794400,
+          "duration" : 19
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c5e9d86a86b06cfde1a9d9c9f6de2104"
+    }, {
+      "name" : "Pond not found",
+      "children" : [ {
+        "name" : "addPond_shouldSavePond()",
+        "uid" : "366d95fcfd7f3d1b",
+        "parentUid" : "9d5b74dd105b20a91fd6e66109e672ed",
+        "status" : "broken",
+        "time" : {
+          "start" : 1731161794646,
+          "stop" : 1731161794669,
+          "duration" : 23
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9d5b74dd105b20a91fd6e66109e672ed"
+    }, {
+      "name" : "WaterParameter not found for pondId: ",
+      "children" : [ {
+        "name" : "saveWaterParameter_shouldUpdateExistingWaterParameter()",
+        "uid" : "d13fb6f83056b4bb",
+        "parentUid" : "b5a2ecdccaaa3537b26954546fabf2ca",
+        "status" : "broken",
+        "time" : {
+          "start" : 1731161795092,
+          "stop" : 1731161795443,
+          "duration" : 351
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b5a2ecdccaaa3537b26954546fabf2ca"
+    }, {
+      "name" : "Cannot invoke \"com.product.server.koi_control_application.model.WaterParameter.getNitriteNO2()\" because \"updatedParameter\" is null",
+      "children" : [ {
+        "name" : "updateWaterParameter_shouldUpdateWaterParameter()",
+        "uid" : "4a761ea71238b0f4",
+        "parentUid" : "ea0315f258458915e8cbaf98706db392",
+        "status" : "broken",
+        "time" : {
+          "start" : 1731161795487,
+          "stop" : 1731161795503,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ea0315f258458915e8cbaf98706db392"
+    }, {
+      "name" : "No value present",
+      "children" : [ {
+        "name" : "getWaterQualityByPondId_shouldReturnWaterQualityStandard()",
+        "uid" : "d6d4d2e6deb4a630",
+        "parentUid" : "040c385184c8620d46dd5d057027ae32",
+        "status" : "broken",
+        "time" : {
+          "start" : 1731161795559,
+          "stop" : 1731161795601,
+          "duration" : 42
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "040c385184c8620d46dd5d057027ae32"
+    }, {
+      "name" : "Image not found: imageToUpdate.jpg",
+      "children" : [ {
+        "name" : "updateImage_shouldUpdateImage()",
+        "uid" : "fd176b0363dda8bc",
+        "parentUid" : "e6b8a733f54953863bc64f9ff5076a93",
+        "status" : "broken",
+        "time" : {
+          "start" : 1731161796842,
+          "stop" : 1731161796864,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e6b8a733f54953863bc64f9ff5076a93"
+    }, {
+      "name" : "java.lang.NullPointerException",
+      "children" : [ {
+        "name" : "updatePackage_ShouldUpdatePackage_WhenExists()",
+        "uid" : "8f50681aa6e83ab",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1731161797727,
+          "stop" : 1731161797754,
+          "duration" : 27
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5592898b36d684905e31486a23088bda"
+    }, {
+      "name" : "Cannot invoke \"com.product.server.koi_control_application.enums.UserRoleEnum.getValue()\" because the return value of \"com.product.server.koi_control_application.pojo.request.UserRegister.getRole()\" is null",
+      "children" : [ {
+        "name" : "saveUser_ShouldSaveUser_WhenRegistrationIsValid()",
+        "uid" : "83423724b9f908e0",
+        "parentUid" : "07c4641bf30c6249e201d564452541e9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1731161798277,
+          "stop" : 1731161798292,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "07c4641bf30c6249e201d564452541e9"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Expected com.product.server.koi_control_application.customException.ForbiddenException to be thrown, but nothing was thrown.",
+      "children" : [ {
+        "name" : "getListImages_shouldThrowForbiddenException_whenErrorOccurs()",
+        "uid" : "345eab2799e42409",
+        "parentUid" : "4e40c71e4ec8f8bdf6d3dc39f821b93e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1731161796485,
+          "stop" : 1731161796554,
+          "duration" : 69
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4e40c71e4ec8f8bdf6d3dc39f821b93e"
+    }, {
+      "name" : "expected: not <null>",
+      "children" : [ {
+        "name" : "getImage_shouldReturnInputStream()",
+        "uid" : "9d4d009b7d33f7eb",
+        "parentUid" : "5f18c668031a56c86d9361a8797e5508",
+        "status" : "failed",
+        "time" : {
+          "start" : 1731161796891,
+          "stop" : 1731161796905,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5f18c668031a56c86d9361a8797e5508"
+    }, {
+      "name" : "expected: <2> but was: <16>",
+      "children" : [ {
+        "name" : "getListImages_shouldReturnListOfImages()",
+        "uid" : "cf26442458d178b2",
+        "parentUid" : "f36554d461859afd5ea3dde0a5facb83",
+        "status" : "failed",
+        "time" : {
+          "start" : 1731161796915,
+          "stop" : 1731161796932,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f36554d461859afd5ea3dde0a5facb83"
+    }, {
+      "name" : "Unexpected exception type thrown, expected: <com.product.server.koi_control_application.customException.AlreadyExistedException> but was: <java.lang.NullPointerException>",
+      "children" : [ {
+        "name" : "saveUser_ShouldThrowAlreadyExistedException_WhenEmailExists()",
+        "uid" : "4db7d830b065c66d",
+        "parentUid" : "0e89a8a6d708d07d6e073112bab08808",
+        "status" : "failed",
+        "time" : {
+          "start" : 1731161798190,
+          "stop" : 1731161798261,
+          "duration" : 71
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0e89a8a6d708d07d6e073112bab08808"
+    }, {
+      "name" : "expected: <No user found with id: null> but was: <User not found with id: null>",
+      "children" : [ {
+        "name" : "updateUser_ShouldThrowNotFoundException_WhenUserDoesNotExist()",
+        "uid" : "6601bcacfc6d5e85",
+        "parentUid" : "a8ad6f56cd4a8c42c64984337f59fc4d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1731161798358,
+          "stop" : 1731161798374,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a8ad6f56cd4a8c42c64984337f59fc4d"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

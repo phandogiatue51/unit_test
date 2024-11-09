@@ -1,0 +1,55 @@
+{
+  "uid" : "660e8ad1d7cc91be",
+  "name" : "createCart_shouldThrowBadRequest_whenInsufficientStock()",
+  "fullName" : "com.services.CartServiceTest.createCart_shouldThrowBadRequest_whenInsufficientStock",
+  "historyId" : "7004502de49359df4586ca74d57d6640",
+  "time" : {
+    "start" : 1730170770341,
+    "stop" : 1730170770345,
+    "duration" : 4
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "17840@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.CartServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.CartServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "createCart_shouldThrowBadRequest_whenInsufficientStock"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.CartServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "660e8ad1d7cc91be.json",
+  "parameterValues" : [ ]
+}

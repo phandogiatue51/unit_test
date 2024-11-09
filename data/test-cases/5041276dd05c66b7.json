@@ -1,0 +1,55 @@
+{
+  "uid" : "5041276dd05c66b7",
+  "name" : "evaluateAndUpdateKoiGrowthStatus_shouldUpdateStatus()",
+  "fullName" : "com.services.IKoiFishServiceTest.evaluateAndUpdateKoiGrowthStatus_shouldUpdateStatus",
+  "historyId" : "6b004b6603de185e11b4590652e30c98",
+  "time" : {
+    "start" : 1730171182961,
+    "stop" : 1730171202056,
+    "duration" : 19095
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "7148@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.IKoiFishServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.IKoiFishServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "evaluateAndUpdateKoiGrowthStatus_shouldUpdateStatus"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.IKoiFishServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5041276dd05c66b7.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,108 @@
+{
+  "uid" : "4db7d830b065c66d",
+  "name" : "saveUser_ShouldThrowAlreadyExistedException_WhenEmailExists()",
+  "fullName" : "com.services.UserServiceTest.saveUser_ShouldThrowAlreadyExistedException_WhenEmailExists",
+  "historyId" : "6bafb00255bbe553199ce3efdbab6660",
+  "time" : {
+    "start" : 1731161798190,
+    "stop" : 1731161798261,
+    "duration" : 71
+  },
+  "description" : "",
+  "status" : "failed",
+  "statusMessage" : "Unexpected exception type thrown, expected: <com.product.server.koi_control_application.customException.AlreadyExistedException> but was: <java.lang.NullPointerException>",
+  "statusTrace" : "org.opentest4j.AssertionFailedError: Unexpected exception type thrown, expected: <com.product.server.koi_control_application.customException.AlreadyExistedException> but was: <java.lang.NullPointerException>\r\n\tat org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)\r\n\tat org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:67)\r\n\tat org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:35)\r\n\tat org.junit.jupiter.api.Assertions.assertThrows(Assertions.java:3115)\r\n\tat com.services.UserServiceTest.saveUser_ShouldThrowAlreadyExistedException_WhenEmailExists(UserServiceTest.java:93)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:568)\r\n\tat java.base/java.util.ArrayList.forEach(ArrayList.java:1511)\r\n\tat java.base/java.util.ArrayList.forEach(ArrayList.java:1511)\r\nCaused by: java.lang.NullPointerException: Cannot invoke \"com.product.server.koi_control_application.enums.UserRoleEnum.getValue()\" because the return value of \"com.product.server.koi_control_application.pojo.request.UserRegister.getRole()\" is null\r\n\tat com.product.server.koi_control_application.service.UserServiceImpl.saveUser_aroundBody0(UserServiceImpl.java:70)\r\n\tat com.product.server.koi_control_application.service.UserServiceImpl$AjcClosure1.run(UserServiceImpl.java:1)\r\n\tat org.springframework.transaction.aspectj.AbstractTransactionAspect.ajc$around$org_springframework_transaction_aspectj_AbstractTransactionAspect$1$2a73e96cproceed(AbstractTransactionAspect.aj:67)\r\n\tat org.springframework.transaction.aspectj.AbstractTransactionAspect$AbstractTransactionAspect$1.proceedWithInvocation(AbstractTransactionAspect.aj:73)\r\n\tat org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:379)\r\n\tat org.springframework.transaction.aspectj.AbstractTransactionAspect.ajc$around$org_springframework_transaction_aspectj_AbstractTransactionAspect$1$2a73e96c(AbstractTransactionAspect.aj:71)\r\n\tat com.product.server.koi_control_application.service.UserServiceImpl.saveUser(UserServiceImpl.java:58)\r\n\tat com.services.UserServiceTest.lambda$saveUser_ShouldThrowAlreadyExistedException_WhenEmailExists$0(UserServiceTest.java:93)\r\n\tat org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:53)\r\n\t... 6 more\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "17332@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.UserServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.UserServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "saveUser_ShouldThrowAlreadyExistedException_WhenEmailExists"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.UserServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2739f81472ced52c",
+      "status" : "failed",
+      "statusDetails" : "Unexpected exception type thrown, expected: <com.product.server.koi_control_application.customException.AlreadyExistedException> but was: <java.lang.NullPointerException>",
+      "time" : {
+        "start" : 1731155891821,
+        "stop" : 1731155891938,
+        "duration" : 117
+      }
+    }, {
+      "uid" : "4748021f7dd5d503",
+      "status" : "failed",
+      "statusDetails" : "Unexpected exception type thrown, expected: <com.product.server.koi_control_application.customException.AlreadyExistedException> but was: <java.lang.NullPointerException>",
+      "time" : {
+        "start" : 1730432624563,
+        "stop" : 1730432624680,
+        "duration" : 117
+      }
+    }, {
+      "uid" : "39f0bf9c4af6638f",
+      "status" : "failed",
+      "statusDetails" : "Unexpected exception type thrown, expected: <com.product.server.koi_control_application.customException.AlreadyExistedException> but was: <java.lang.NullPointerException>",
+      "time" : {
+        "start" : 1730176356920,
+        "stop" : 1730176357202,
+        "duration" : 282
+      }
+    }, {
+      "uid" : "f6c1886994456fbc",
+      "status" : "failed",
+      "statusDetails" : "Unexpected exception type thrown, expected: <com.product.server.koi_control_application.customException.AlreadyExistedException> but was: <java.lang.NullPointerException>",
+      "time" : {
+        "start" : 1730171205693,
+        "stop" : 1730171205796,
+        "duration" : 103
+      }
+    }, {
+      "uid" : "ae40b10d4f73175",
+      "status" : "failed",
+      "statusDetails" : "Unexpected exception type thrown, expected: <com.product.server.koi_control_application.customException.AlreadyExistedException> but was: <java.lang.NullPointerException>",
+      "time" : {
+        "start" : 1730170777084,
+        "stop" : 1730170777136,
+        "duration" : 52
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "4db7d830b065c66d.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,57 @@
+{
+  "uid" : "ae208868c1777a22",
+  "name" : "updateImage_shouldUpdateImage()",
+  "fullName" : "com.services.ImageServiceTest.updateImage_shouldUpdateImage",
+  "historyId" : "5735194d5dfe3e52583fc6694a9b2573",
+  "time" : {
+    "start" : 1730170774744,
+    "stop" : 1730170774860,
+    "duration" : 116
+  },
+  "description" : "",
+  "status" : "broken",
+  "statusMessage" : "Image not found: imageToUpdate.jpg",
+  "statusTrace" : "java.io.IOException: Image not found: imageToUpdate.jpg\r\n\tat com.product.server.koi_control_application.service.ImageServiceImpl.updateImage(ImageServiceImpl.java:105)\r\n\tat com.services.ImageServiceTest.updateImage_shouldUpdateImage(ImageServiceTest.java:113)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:568)\r\n\tat java.base/java.util.ArrayList.forEach(ArrayList.java:1511)\r\n\tat java.base/java.util.ArrayList.forEach(ArrayList.java:1511)\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "17840@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.ImageServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.ImageServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "updateImage_shouldUpdateImage"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.ImageServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ae208868c1777a22.json",
+  "parameterValues" : [ ]
+}

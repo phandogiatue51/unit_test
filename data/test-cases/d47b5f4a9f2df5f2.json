@@ -1,0 +1,55 @@
+{
+  "uid" : "d47b5f4a9f2df5f2",
+  "name" : "isProductIsDisabledFromCart_ShouldReturnFalse_WhenNoDisabledProducts()",
+  "fullName" : "com.services.ProductServiceTest.isProductIsDisabledFromCart_ShouldReturnFalse_WhenNoDisabledProducts",
+  "historyId" : "f753ef8ceb6b3ccced1bfb0536239e02",
+  "time" : {
+    "start" : 1730176363254,
+    "stop" : 1730176363265,
+    "duration" : 11
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "21104@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.ProductServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.ProductServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "isProductIsDisabledFromCart_ShouldReturnFalse_WhenNoDisabledProducts"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.ProductServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d47b5f4a9f2df5f2.json",
+  "parameterValues" : [ ]
+}

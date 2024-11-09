@@ -1,0 +1,55 @@
+{
+  "uid" : "386193428c96308d",
+  "name" : "updatePond_shouldThrowNotFoundException_whenUserNotFound()",
+  "fullName" : "com.services.IPondServiceTest.updatePond_shouldThrowNotFoundException_whenUserNotFound",
+  "historyId" : "ab585d64d5f60717f650ca1a9c52c5b6",
+  "time" : {
+    "start" : 1730170773128,
+    "stop" : 1730170773144,
+    "duration" : 16
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "17840@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.IPondServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.IPondServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "updatePond_shouldThrowNotFoundException_whenUserNotFound"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.IPondServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "386193428c96308d.json",
+  "parameterValues" : [ ]
+}

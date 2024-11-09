@@ -1,0 +1,55 @@
+{
+  "uid" : "bdee6ec32a0c7cb7",
+  "name" : "createProduct_ShouldSaveProduct_WhenNoImageProvided()",
+  "fullName" : "com.services.ProductServiceTest.createProduct_ShouldSaveProduct_WhenNoImageProvided",
+  "historyId" : "b1992eddb16402a140d6bd97b865acbe",
+  "time" : {
+    "start" : 1730171209515,
+    "stop" : 1730171209515,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "7148@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.ProductServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.ProductServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "createProduct_ShouldSaveProduct_WhenNoImageProvided"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.ProductServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bdee6ec32a0c7cb7.json",
+  "parameterValues" : [ ]
+}

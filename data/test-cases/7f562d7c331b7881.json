@@ -1,0 +1,55 @@
+{
+  "uid" : "7f562d7c331b7881",
+  "name" : "getPonds_withPagination_shouldReturnPageOfPonds()",
+  "fullName" : "com.services.IPondServiceTest.getPonds_withPagination_shouldReturnPageOfPonds",
+  "historyId" : "817e6726bcac1dd5f4c5e8879831f5ed",
+  "time" : {
+    "start" : 1730176352133,
+    "stop" : 1730176352148,
+    "duration" : 15
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "21104@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.IPondServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.IPondServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getPonds_withPagination_shouldReturnPageOfPonds"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.IPondServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7f562d7c331b7881.json",
+  "parameterValues" : [ ]
+}

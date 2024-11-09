@@ -1,0 +1,57 @@
+{
+  "uid" : "26bbf79cf73b06a0",
+  "name" : "updatePond_shouldUpdatePond()",
+  "fullName" : "com.services.IPondServiceTest.updatePond_shouldUpdatePond",
+  "historyId" : "46c0fcb48fba4fdca0569cb29a44ecfb",
+  "time" : {
+    "start" : 1730170773097,
+    "stop" : 1730170773113,
+    "duration" : 16
+  },
+  "description" : "",
+  "status" : "broken",
+  "statusMessage" : "Cannot invoke \"com.product.server.koi_control_application.model.WaterQualityStandard.calculateValues(java.math.BigDecimal, java.util.List)\" because \"waterQualityStandard\" is null",
+  "statusTrace" : "java.lang.NullPointerException: Cannot invoke \"com.product.server.koi_control_application.model.WaterQualityStandard.calculateValues(java.math.BigDecimal, java.util.List)\" because \"waterQualityStandard\" is null\r\n\tat com.product.server.koi_control_application.service.IPondServiceImpl.updatePond_aroundBody4(IPondServiceImpl.java:131)\r\n\tat com.product.server.koi_control_application.service.IPondServiceImpl$AjcClosure5.run(IPondServiceImpl.java:1)\r\n\tat org.springframework.transaction.aspectj.AbstractTransactionAspect.ajc$around$org_springframework_transaction_aspectj_AbstractTransactionAspect$1$2a73e96cproceed(AbstractTransactionAspect.aj:67)\r\n\tat org.springframework.transaction.aspectj.AbstractTransactionAspect$AbstractTransactionAspect$1.proceedWithInvocation(AbstractTransactionAspect.aj:73)\r\n\tat org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:379)\r\n\tat org.springframework.transaction.aspectj.AbstractTransactionAspect.ajc$around$org_springframework_transaction_aspectj_AbstractTransactionAspect$1$2a73e96c(AbstractTransactionAspect.aj:71)\r\n\tat com.product.server.koi_control_application.service.IPondServiceImpl.updatePond(IPondServiceImpl.java:109)\r\n\tat com.services.IPondServiceTest.updatePond_shouldUpdatePond(IPondServiceTest.java:201)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:568)\r\n\tat java.base/java.util.ArrayList.forEach(ArrayList.java:1511)\r\n\tat java.base/java.util.ArrayList.forEach(ArrayList.java:1511)\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "17840@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.IPondServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.IPondServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "updatePond_shouldUpdatePond"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.IPondServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "26bbf79cf73b06a0.json",
+  "parameterValues" : [ ]
+}

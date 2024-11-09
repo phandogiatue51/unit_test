@@ -1,0 +1,55 @@
+{
+  "uid" : "ef24fd2431849b73",
+  "name" : "createFeedback_shouldThrowNotFoundException_whenUserOrProductNotFound()",
+  "fullName" : "com.services.FeedbackServiceTest.createFeedback_shouldThrowNotFoundException_whenUserOrProductNotFound",
+  "historyId" : "cb290e64ce8f4e5f0d1e6d0dc67c8db7",
+  "time" : {
+    "start" : 1730171208280,
+    "stop" : 1730171208625,
+    "duration" : 345
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "7148@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.FeedbackServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.FeedbackServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "createFeedback_shouldThrowNotFoundException_whenUserOrProductNotFound"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.FeedbackServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ef24fd2431849b73.json",
+  "parameterValues" : [ ]
+}

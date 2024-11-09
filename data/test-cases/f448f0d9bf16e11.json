@@ -1,0 +1,57 @@
+{
+  "uid" : "f448f0d9bf16e11",
+  "name" : "updateCategory_shouldUpdateFields_whenValidInput()",
+  "fullName" : "com.services.CategoryServiceTest.updateCategory_shouldUpdateFields_whenValidInput",
+  "historyId" : "4f94c94e2232beae72798a82af406a2d",
+  "time" : {
+    "start" : 1731155855259,
+    "stop" : 1731155855301,
+    "duration" : 42
+  },
+  "description" : "",
+  "status" : "broken",
+  "statusMessage" : "Cannot invoke \"com.product.server.koi_control_application.model.Category.getName()\" because \"updatedCategory\" is null",
+  "statusTrace" : "java.lang.NullPointerException: Cannot invoke \"com.product.server.koi_control_application.model.Category.getName()\" because \"updatedCategory\" is null\r\n\tat com.services.CategoryServiceTest.updateCategory_shouldUpdateFields_whenValidInput(CategoryServiceTest.java:90)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:568)\r\n\tat java.base/java.util.ArrayList.forEach(ArrayList.java:1511)\r\n\tat java.base/java.util.ArrayList.forEach(ArrayList.java:1511)\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "24744@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.CategoryServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.CategoryServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "updateCategory_shouldUpdateFields_whenValidInput"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.CategoryServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f448f0d9bf16e11.json",
+  "parameterValues" : [ ]
+}

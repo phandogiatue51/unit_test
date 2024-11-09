@@ -1,0 +1,55 @@
+{
+  "uid" : "c378ace300248fc6",
+  "name" : "getPackageById_ShouldThrowException_WhenNotExists()",
+  "fullName" : "com.services.PackageServiceTest.getPackageById_ShouldThrowException_WhenNotExists",
+  "historyId" : "53db239c514113ed18863ef13ac774ac",
+  "time" : {
+    "start" : 1731155891120,
+    "stop" : 1731155891130,
+    "duration" : 10
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "24744@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.PackageServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.PackageServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getPackageById_ShouldThrowException_WhenNotExists"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.PackageServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c378ace300248fc6.json",
+  "parameterValues" : [ ]
+}
