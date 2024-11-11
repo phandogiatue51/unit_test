@@ -1,0 +1,57 @@
+{
+  "uid" : "7c4d068bf5f051e9",
+  "name" : "getUser_ShouldReturnUser_WhenUserExists()",
+  "fullName" : "com.services.UserServiceTest.getUser_ShouldReturnUser_WhenUserExists",
+  "historyId" : "4c9566ebe6ebd93f37bab7110aba470a",
+  "time" : {
+    "start" : 1731336174782,
+    "stop" : 1731336174795,
+    "duration" : 13
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "13336@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.UserServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.UserServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getUser_ShouldReturnUser_WhenUserExists"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.UserServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7c4d068bf5f051e9.json",
+  "parameterValues" : [ ]
+}

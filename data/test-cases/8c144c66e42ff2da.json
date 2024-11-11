@@ -1,0 +1,57 @@
+{
+  "uid" : "8c144c66e42ff2da",
+  "name" : "deleteKoiFish_shouldDeleteKoiFish()",
+  "fullName" : "com.services.IKoiFishServiceTest.deleteKoiFish_shouldDeleteKoiFish",
+  "historyId" : "7a1c5f29aab3816eb9b619a49757a1dc",
+  "time" : {
+    "start" : 1731336168294,
+    "stop" : 1731336168328,
+    "duration" : 34
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "13336@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.IKoiFishServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.IKoiFishServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "deleteKoiFish_shouldDeleteKoiFish"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.IKoiFishServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8c144c66e42ff2da.json",
+  "parameterValues" : [ ]
+}

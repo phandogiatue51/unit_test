@@ -1,0 +1,57 @@
+{
+  "uid" : "dc8aa61c069272f3",
+  "name" : "getKoiFish_shouldThrowNotFoundException_whenKoiFishNotFound()",
+  "fullName" : "com.services.IKoiFishServiceTest.getKoiFish_shouldThrowNotFoundException_whenKoiFishNotFound",
+  "historyId" : "146ffa554a753619f96f547c0e436a6d",
+  "time" : {
+    "start" : 1731336168339,
+    "stop" : 1731336168356,
+    "duration" : 17
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "13336@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.IKoiFishServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.IKoiFishServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getKoiFish_shouldThrowNotFoundException_whenKoiFishNotFound"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.IKoiFishServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dc8aa61c069272f3.json",
+  "parameterValues" : [ ]
+}

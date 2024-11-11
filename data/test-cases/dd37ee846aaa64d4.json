@@ -1,0 +1,57 @@
+{
+  "uid" : "dd37ee846aaa64d4",
+  "name" : "deleteUser_ShouldThrowNotFoundException_WhenUserDoesNotExist()",
+  "fullName" : "com.services.UserServiceTest.deleteUser_ShouldThrowNotFoundException_WhenUserDoesNotExist",
+  "historyId" : "d4c1d78ad44d854ca1f46bdb11a8cc4f",
+  "time" : {
+    "start" : 1731336174756,
+    "stop" : 1731336174777,
+    "duration" : 21
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "13336@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.UserServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.UserServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "deleteUser_ShouldThrowNotFoundException_WhenUserDoesNotExist"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.UserServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dd37ee846aaa64d4.json",
+  "parameterValues" : [ ]
+}

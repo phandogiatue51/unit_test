@@ -1,83 +1,6 @@
 {
   "total" : 15,
   "items" : [ {
-    "uid" : "41a14e67dce700ceb38511f853a700f0",
-    "name" : "com.services.ImageServiceTest",
-    "statistic" : {
-      "failed" : 3,
-      "broken" : 1,
-      "skipped" : 0,
-      "passed" : 9,
-      "unknown" : 0,
-      "total" : 13
-    }
-  }, {
-    "uid" : "b5d483ad64e6966e957be9ae5ac8ba44",
-    "name" : "com.services.UserServiceTest",
-    "statistic" : {
-      "failed" : 2,
-      "broken" : 1,
-      "skipped" : 0,
-      "passed" : 7,
-      "unknown" : 0,
-      "total" : 10
-    }
-  }, {
-    "uid" : "f449687c859ebb62dcd0be3a3e50a578",
-    "name" : "com.services.IWaterParameterServiceTest",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 3,
-      "skipped" : 0,
-      "passed" : 8,
-      "unknown" : 0,
-      "total" : 11
-    }
-  }, {
-    "uid" : "a65f66ab28572e9a4884301bb1a0cfce",
-    "name" : "com.services.IPondServiceTest",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 2,
-      "skipped" : 0,
-      "passed" : 10,
-      "unknown" : 0,
-      "total" : 12
-    }
-  }, {
-    "uid" : "1fbf46b1ffbbf38c9cf75369781d6e0a",
-    "name" : "com.services.IKoiFishServiceTest",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 2,
-      "skipped" : 0,
-      "passed" : 6,
-      "unknown" : 0,
-      "total" : 8
-    }
-  }, {
-    "uid" : "12a293117a9735b555c59cd351504498",
-    "name" : "com.services.PackageServiceTest",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 1,
-      "skipped" : 0,
-      "passed" : 8,
-      "unknown" : 0,
-      "total" : 9
-    }
-  }, {
-    "uid" : "56ed5b704b4974a1ebaf5846a44a24d3",
-    "name" : "com.services.CategoryServiceTest",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 1,
-      "skipped" : 0,
-      "passed" : 7,
-      "unknown" : 0,
-      "total" : 8
-    }
-  }, {
     "uid" : "3bcd50a4e7fc697bc4fa11b151d87a40",
     "name" : "com.services.CartServiceTest",
     "statistic" : {
@@ -87,6 +10,17 @@
       "passed" : 11,
       "unknown" : 0,
       "total" : 11
+    }
+  }, {
+    "uid" : "a65f66ab28572e9a4884301bb1a0cfce",
+    "name" : "com.services.IPondServiceTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 10,
+      "unknown" : 0,
+      "total" : 10
     }
   }, {
     "uid" : "42bed14f26a14982f444c2a1c50fdcea",
@@ -100,8 +34,74 @@
       "total" : 10
     }
   }, {
+    "uid" : "41a14e67dce700ceb38511f853a700f0",
+    "name" : "com.services.ImageServiceTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 9
+    }
+  }, {
+    "uid" : "f449687c859ebb62dcd0be3a3e50a578",
+    "name" : "com.services.IWaterParameterServiceTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    }
+  }, {
+    "uid" : "12a293117a9735b555c59cd351504498",
+    "name" : "com.services.PackageServiceTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    }
+  }, {
+    "uid" : "56ed5b704b4974a1ebaf5846a44a24d3",
+    "name" : "com.services.CategoryServiceTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "b5d483ad64e6966e957be9ae5ac8ba44",
+    "name" : "com.services.UserServiceTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
     "uid" : "1ef26a245ae193d1c5e2abfdf241f47b",
     "name" : "com.services.BlogServiceTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "1fbf46b1ffbbf38c9cf75369781d6e0a",
+    "name" : "com.services.IKoiFishServiceTest",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,

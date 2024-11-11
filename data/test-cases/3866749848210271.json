@@ -1,0 +1,57 @@
+{
+  "uid" : "3866749848210271",
+  "name" : "clearCart_shouldClearCart_whenExists()",
+  "fullName" : "com.services.CartServiceTest.clearCart_shouldClearCart_whenExists",
+  "historyId" : "3f25a8b764189bed35ee723d31fcca2c",
+  "time" : {
+    "start" : 1731336164127,
+    "stop" : 1731336164140,
+    "duration" : 13
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "13336@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.CartServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.CartServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "clearCart_shouldClearCart_whenExists"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.CartServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3866749848210271.json",
+  "parameterValues" : [ ]
+}

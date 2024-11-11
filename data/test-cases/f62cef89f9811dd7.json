@@ -1,0 +1,57 @@
+{
+  "uid" : "f62cef89f9811dd7",
+  "name" : "deletePond_shouldDeletePond()",
+  "fullName" : "com.services.IPondServiceTest.deletePond_shouldDeletePond",
+  "historyId" : "e64ab926bd586300c301595b01fb60a6",
+  "time" : {
+    "start" : 1731336168465,
+    "stop" : 1731336169058,
+    "duration" : 593
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "13336@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.IPondServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.IPondServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "deletePond_shouldDeletePond"
+  }, {
+    "name" : "suite",
+    "value" : "com.services.IPondServiceTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f62cef89f9811dd7.json",
+  "parameterValues" : [ ]
+}
