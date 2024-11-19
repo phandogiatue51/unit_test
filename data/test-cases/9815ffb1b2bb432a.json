@@ -1,0 +1,57 @@
+{
+  "uid" : "9815ffb1b2bb432a",
+  "name" : "Get Package - Should return package when exists",
+  "fullName" : "com.services.PackageServiceTest.getPackageById_ShouldReturnPackage_WhenExists",
+  "historyId" : "699b860e05e3498ed35767efb5885e19",
+  "time" : {
+    "start" : 1732021463913,
+    "stop" : 1732021464236,
+    "duration" : 323
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.PackageServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.PackageServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getPackageById_ShouldReturnPackage_WhenExists"
+  }, {
+    "name" : "suite",
+    "value" : "Package Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9815ffb1b2bb432a.json",
+  "parameterValues" : [ ]
+}

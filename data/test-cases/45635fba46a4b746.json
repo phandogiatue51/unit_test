@@ -1,0 +1,57 @@
+{
+  "uid" : "45635fba46a4b746",
+  "name" : "Update Password - Should throw NotFoundException when user does not exist",
+  "fullName" : "com.services.UserServiceTest.updatePassword_ShouldThrowNotFoundException_WhenUserDoesNotExist",
+  "historyId" : "affa6dc473a865911095c57969f88050",
+  "time" : {
+    "start" : 1732021465488,
+    "stop" : 1732021465492,
+    "duration" : 4
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.UserServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.UserServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "updatePassword_ShouldThrowNotFoundException_WhenUserDoesNotExist"
+  }, {
+    "name" : "suite",
+    "value" : "User Service Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "45635fba46a4b746.json",
+  "parameterValues" : [ ]
+}

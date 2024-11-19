@@ -1,0 +1,57 @@
+{
+  "uid" : "fcf42038685e18d4",
+  "name" : "Clear Cart - Should throw NotFound when cart is empty",
+  "fullName" : "com.services.CartServiceTest.clearCart_shouldThrowNotFound_whenCartIsEmpty",
+  "historyId" : "85dbd6a792d52087bfa09b7b6ece86d3",
+  "time" : {
+    "start" : 1732021458274,
+    "stop" : 1732021458282,
+    "duration" : 8
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.CartServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.CartServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "clearCart_shouldThrowNotFound_whenCartIsEmpty"
+  }, {
+    "name" : "suite",
+    "value" : "Cart Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fcf42038685e18d4.json",
+  "parameterValues" : [ ]
+}

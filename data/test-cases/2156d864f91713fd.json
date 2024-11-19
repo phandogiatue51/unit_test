@@ -1,0 +1,57 @@
+{
+  "uid" : "2156d864f91713fd",
+  "name" : "Add Pond - Should throw NotFound when user not found",
+  "fullName" : "com.services.IPondServiceTest.addPond_shouldThrowNotFoundException_whenUserNotFound",
+  "historyId" : "e9ae47fcdf6ef35c0701026cb1d90e62",
+  "time" : {
+    "start" : 1732021461578,
+    "stop" : 1732021461586,
+    "duration" : 8
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.IPondServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.IPondServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "addPond_shouldThrowNotFoundException_whenUserNotFound"
+  }, {
+    "name" : "suite",
+    "value" : "Pond Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2156d864f91713fd.json",
+  "parameterValues" : [ ]
+}

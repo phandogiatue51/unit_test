@@ -1,0 +1,57 @@
+{
+  "uid" : "2f60b630ba749f98",
+  "name" : "Get Package - Should throw exception when not exists",
+  "fullName" : "com.services.PackageServiceTest.getPackageById_ShouldThrowException_WhenNotExists",
+  "historyId" : "53db239c514113ed18863ef13ac774ac",
+  "time" : {
+    "start" : 1732021464320,
+    "stop" : 1732021464328,
+    "duration" : 8
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.PackageServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.PackageServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getPackageById_ShouldThrowException_WhenNotExists"
+  }, {
+    "name" : "suite",
+    "value" : "Package Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2f60b630ba749f98.json",
+  "parameterValues" : [ ]
+}

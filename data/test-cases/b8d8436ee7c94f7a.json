@@ -1,0 +1,57 @@
+{
+  "uid" : "b8d8436ee7c94f7a",
+  "name" : "Create Cart - Should throw NotFound when product does not exist",
+  "fullName" : "com.services.CartServiceTest.createCart_shouldThrowNotFound_whenProductDoesNotExist",
+  "historyId" : "112fab7d3d943ebf946f4359a9691306",
+  "time" : {
+    "start" : 1732021458331,
+    "stop" : 1732021458349,
+    "duration" : 18
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.CartServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.CartServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "createCart_shouldThrowNotFound_whenProductDoesNotExist"
+  }, {
+    "name" : "suite",
+    "value" : "Cart Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b8d8436ee7c94f7a.json",
+  "parameterValues" : [ ]
+}

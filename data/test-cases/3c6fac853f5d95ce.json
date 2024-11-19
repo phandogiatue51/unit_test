@@ -1,0 +1,57 @@
+{
+  "uid" : "3c6fac853f5d95ce",
+  "name" : "Delete Package - Should throw Exception when deleting default package",
+  "fullName" : "com.services.PackageServiceTest.deletePackage_ShouldThrowException_WhenDefaultPackage",
+  "historyId" : "bcad8b2454e564b0edb742bd1136a851",
+  "time" : {
+    "start" : 1732021464290,
+    "stop" : 1732021464297,
+    "duration" : 7
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.PackageServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.PackageServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "deletePackage_ShouldThrowException_WhenDefaultPackage"
+  }, {
+    "name" : "suite",
+    "value" : "Package Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3c6fac853f5d95ce.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,57 @@
+{
+  "uid" : "45b0dea7a3ec7453",
+  "name" : "Create feedback - Should throw NotFoundException when user or product not found",
+  "fullName" : "com.services.FeedbackServiceTest.createFeedback_shouldThrowNotFoundException_whenUserOrProductNotFound",
+  "historyId" : "cb290e64ce8f4e5f0d1e6d0dc67c8db7",
+  "time" : {
+    "start" : 1732021459703,
+    "stop" : 1732021459954,
+    "duration" : 251
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.FeedbackServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.FeedbackServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "createFeedback_shouldThrowNotFoundException_whenUserOrProductNotFound"
+  }, {
+    "name" : "suite",
+    "value" : "Feedback Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "45b0dea7a3ec7453.json",
+  "parameterValues" : [ ]
+}

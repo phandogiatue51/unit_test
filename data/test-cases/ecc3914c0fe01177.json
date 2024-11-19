@@ -1,0 +1,57 @@
+{
+  "uid" : "ecc3914c0fe01177",
+  "name" : "Get User - Should return user when user exists",
+  "fullName" : "com.services.UserServiceTest.getUser_ShouldReturnUser_WhenUserExists",
+  "historyId" : "4c9566ebe6ebd93f37bab7110aba470a",
+  "time" : {
+    "start" : 1732021465540,
+    "stop" : 1732021465544,
+    "duration" : 4
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.UserServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.UserServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getUser_ShouldReturnUser_WhenUserExists"
+  }, {
+    "name" : "suite",
+    "value" : "User Service Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ecc3914c0fe01177.json",
+  "parameterValues" : [ ]
+}

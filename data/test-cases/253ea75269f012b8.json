@@ -1,0 +1,57 @@
+{
+  "uid" : "253ea75269f012b8",
+  "name" : "Update Product - Should throw NotFoundException when product does not exist",
+  "fullName" : "com.services.ProductServiceTest.updateProduct_ShouldThrowNotFoundException_WhenProductDoesNotExist",
+  "historyId" : "7d6599fddcc9cf99446f3c7b78aae53",
+  "time" : {
+    "start" : 1732021464666,
+    "stop" : 1732021464674,
+    "duration" : 8
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.ProductServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.ProductServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "updateProduct_ShouldThrowNotFoundException_WhenProductDoesNotExist"
+  }, {
+    "name" : "suite",
+    "value" : "Product Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "253ea75269f012b8.json",
+  "parameterValues" : [ ]
+}

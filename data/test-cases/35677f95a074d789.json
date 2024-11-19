@@ -1,0 +1,57 @@
+{
+  "uid" : "35677f95a074d789",
+  "name" : "Send Email - Send Email",
+  "fullName" : "com.services.EmailServiceTest.sendMail_shouldSendEmail",
+  "historyId" : "c93adb96e05ddf6637ec942ea6cf1377",
+  "time" : {
+    "start" : 1732021459465,
+    "stop" : 1732021459652,
+    "duration" : 187
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.EmailServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.EmailServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "sendMail_shouldSendEmail"
+  }, {
+    "name" : "suite",
+    "value" : "Email Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "35677f95a074d789.json",
+  "parameterValues" : [ ]
+}

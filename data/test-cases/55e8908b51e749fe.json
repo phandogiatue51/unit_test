@@ -1,0 +1,57 @@
+{
+  "uid" : "55e8908b51e749fe",
+  "name" : "Get User - Should throw NotFoundException when user does not exist",
+  "fullName" : "com.services.UserServiceTest.getUser_ShouldThrowNotFoundException_WhenUserDoesNotExist",
+  "historyId" : "2edf9047c72a5f6c13849e69bf94836c",
+  "time" : {
+    "start" : 1732021465568,
+    "stop" : 1732021465572,
+    "duration" : 4
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.UserServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.UserServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getUser_ShouldThrowNotFoundException_WhenUserDoesNotExist"
+  }, {
+    "name" : "suite",
+    "value" : "User Service Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "55e8908b51e749fe.json",
+  "parameterValues" : [ ]
+}

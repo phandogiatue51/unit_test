@@ -1,0 +1,57 @@
+{
+  "uid" : "de9b6790409b2328",
+  "name" : "Get all feedbacks",
+  "fullName" : "com.services.FeedbackServiceTest.getAll_shouldReturnAllFeedbacks",
+  "historyId" : "6f1fdcec94fe4ee42dfc89cfe7d946e7",
+  "time" : {
+    "start" : 1732021459959,
+    "stop" : 1732021459964,
+    "duration" : 5
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.FeedbackServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.FeedbackServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getAll_shouldReturnAllFeedbacks"
+  }, {
+    "name" : "suite",
+    "value" : "Feedback Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "de9b6790409b2328.json",
+  "parameterValues" : [ ]
+}

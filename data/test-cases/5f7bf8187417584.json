@@ -1,0 +1,57 @@
+{
+  "uid" : "5f7bf8187417584",
+  "name" : "Delete Water Parameter - Should delete water parameter",
+  "fullName" : "com.services.IWaterParameterServiceTest.deleteWaterParameter_shouldDeleteWaterParameter",
+  "historyId" : "c61455cdbbd61eab678855484981bde7",
+  "time" : {
+    "start" : 1732021462083,
+    "stop" : 1732021462089,
+    "duration" : 6
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.IWaterParameterServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.IWaterParameterServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "deleteWaterParameter_shouldDeleteWaterParameter"
+  }, {
+    "name" : "suite",
+    "value" : "Water Parameter Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5f7bf8187417584.json",
+  "parameterValues" : [ ]
+}

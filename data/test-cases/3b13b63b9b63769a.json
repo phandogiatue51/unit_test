@@ -1,0 +1,57 @@
+{
+  "uid" : "3b13b63b9b63769a",
+  "name" : "Create Cart - Should throw IllegalAccess when user ID does not match",
+  "fullName" : "com.services.CartServiceTest.createCart_shouldThrowIllegalAccess_whenUserIdDoesNotMatch",
+  "historyId" : "963044d894b5e3e9af937d53f7ed2e6",
+  "time" : {
+    "start" : 1732021457719,
+    "stop" : 1732021458213,
+    "duration" : 494
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.CartServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.CartServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "createCart_shouldThrowIllegalAccess_whenUserIdDoesNotMatch"
+  }, {
+    "name" : "suite",
+    "value" : "Cart Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b13b63b9b63769a.json",
+  "parameterValues" : [ ]
+}

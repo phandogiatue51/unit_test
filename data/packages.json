@@ -1,0 +1,1343 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "com.services",
+    "children" : [ {
+      "name" : "BlogServiceTest",
+      "children" : [ {
+        "name" : "deleteBlog_shouldDeleteBlog_whenExists",
+        "uid" : "9c3cc399f5b49a08",
+        "parentUid" : "98f258ab05447a26aa7a49fb070122a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021415980,
+          "stop" : 1732021456757,
+          "duration" : 40777
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "updateBlog_shouldUpdateFields_whenValidInput",
+        "uid" : "8686a6aabede52fa",
+        "parentUid" : "98f258ab05447a26aa7a49fb070122a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021457248,
+          "stop" : 1732021457351,
+          "duration" : 103
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createBlog_shouldSaveBlog_whenValidInput",
+        "uid" : "b30a8b2ebbd4cc48",
+        "parentUid" : "98f258ab05447a26aa7a49fb070122a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021457370,
+          "stop" : 1732021457518,
+          "duration" : 148
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createBlog_shouldThrowBadRequest_whenTitleExists",
+        "uid" : "ee1c09a68474f741",
+        "parentUid" : "98f258ab05447a26aa7a49fb070122a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021457532,
+          "stop" : 1732021457550,
+          "duration" : 18
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getBlogBySlug_shouldThrowNotFound_whenNoBlogFound",
+        "uid" : "9ce421c75cb38d10",
+        "parentUid" : "98f258ab05447a26aa7a49fb070122a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021457561,
+          "stop" : 1732021457578,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "updateBlog_shouldThrowNotFound_whenBlogDoesNotExist",
+        "uid" : "bbe6a23a1122931e",
+        "parentUid" : "98f258ab05447a26aa7a49fb070122a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021457586,
+          "stop" : 1732021457614,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "98f258ab05447a26aa7a49fb070122a5"
+    }, {
+      "name" : "CartServiceTest",
+      "children" : [ {
+        "name" : "createCart_shouldThrowIllegalAccess_whenUserIdDoesNotMatch",
+        "uid" : "3b13b63b9b63769a",
+        "parentUid" : "349bcb1c36f993fa4bd978a9bc87695c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021457719,
+          "stop" : 1732021458213,
+          "duration" : 494
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "clearCart_shouldClearCart_whenExists",
+        "uid" : "56ad6546d0e57bda",
+        "parentUid" : "349bcb1c36f993fa4bd978a9bc87695c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021458220,
+          "stop" : 1732021458236,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createCart_shouldSaveCart_whenValidInput",
+        "uid" : "e56c867aab6335f",
+        "parentUid" : "349bcb1c36f993fa4bd978a9bc87695c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021458242,
+          "stop" : 1732021458250,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "deleteCart_shouldDeleteCart_whenExists",
+        "uid" : "ddd1992cb3d5c5cc",
+        "parentUid" : "349bcb1c36f993fa4bd978a9bc87695c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021458256,
+          "stop" : 1732021458268,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "clearCart_shouldThrowNotFound_whenCartIsEmpty",
+        "uid" : "fcf42038685e18d4",
+        "parentUid" : "349bcb1c36f993fa4bd978a9bc87695c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021458274,
+          "stop" : 1732021458282,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "updateCart_shouldThrowNotFound_whenCartDoesNotExist",
+        "uid" : "2b78f95ef0daee3d",
+        "parentUid" : "349bcb1c36f993fa4bd978a9bc87695c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021458290,
+          "stop" : 1732021458299,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "deleteCart_shouldThrowNotFound_whenCartDoesNotExist",
+        "uid" : "42feab0c99739034",
+        "parentUid" : "349bcb1c36f993fa4bd978a9bc87695c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021458310,
+          "stop" : 1732021458319,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createCart_shouldThrowBadRequest_whenInsufficientStock",
+        "uid" : "9eb86967ab46e1b8",
+        "parentUid" : "349bcb1c36f993fa4bd978a9bc87695c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021458323,
+          "stop" : 1732021458331,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createCart_shouldThrowNotFound_whenProductDoesNotExist",
+        "uid" : "b8d8436ee7c94f7a",
+        "parentUid" : "349bcb1c36f993fa4bd978a9bc87695c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021458331,
+          "stop" : 1732021458349,
+          "duration" : 18
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createCart_shouldThrowBadRequest_whenItemAlreadyInCart",
+        "uid" : "34fd17e9ff13a9ce",
+        "parentUid" : "349bcb1c36f993fa4bd978a9bc87695c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021458360,
+          "stop" : 1732021458370,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "349bcb1c36f993fa4bd978a9bc87695c"
+    }, {
+      "name" : "CategoryServiceTest",
+      "children" : [ {
+        "name" : "addCategory_shouldSaveCategory",
+        "uid" : "b3d7eeca243e49ce",
+        "parentUid" : "4cd91fc9d8e49aa9649047cba16d979b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021458421,
+          "stop" : 1732021458602,
+          "duration" : 181
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "updateCategory_shouldThrowNotFound_whenCategoryDoesNotExist",
+        "uid" : "e66cdd656dc125b4",
+        "parentUid" : "4cd91fc9d8e49aa9649047cba16d979b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021458605,
+          "stop" : 1732021458620,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "deleteCategory_shouldThrowNotFound_whenCategoryDoesNotExist",
+        "uid" : "d399251b013222f0",
+        "parentUid" : "4cd91fc9d8e49aa9649047cba16d979b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021458620,
+          "stop" : 1732021458620,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "deleteCategory_shouldDeleteCategory_whenExists",
+        "uid" : "30f18e78fb3ebe3b",
+        "parentUid" : "4cd91fc9d8e49aa9649047cba16d979b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021458637,
+          "stop" : 1732021458643,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getAllCategories_shouldReturnCategories",
+        "uid" : "23459891d6176cda",
+        "parentUid" : "4cd91fc9d8e49aa9649047cba16d979b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021458650,
+          "stop" : 1732021458666,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getCategoryById_shouldReturnCategory_whenExists",
+        "uid" : "49f205f5792b7dc",
+        "parentUid" : "4cd91fc9d8e49aa9649047cba16d979b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021458666,
+          "stop" : 1732021458681,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getCategoryById_shouldThrowNotFound_whenCategoryDoesNotExist",
+        "uid" : "b45df251e324bd37",
+        "parentUid" : "4cd91fc9d8e49aa9649047cba16d979b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021458697,
+          "stop" : 1732021458715,
+          "duration" : 18
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4cd91fc9d8e49aa9649047cba16d979b"
+    }, {
+      "name" : "DashboardServiceTest",
+      "children" : [ {
+        "name" : "getUserGrowthData_shouldReturnUserGrowthData",
+        "uid" : "962e7978cf38c397",
+        "parentUid" : "602935de6cec542ce21bd3fd5a9057be",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021458791,
+          "stop" : 1732021459399,
+          "duration" : 608
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getTotalSales_shouldReturnTotalSalesData",
+        "uid" : "16d9a0d2f95078df",
+        "parentUid" : "602935de6cec542ce21bd3fd5a9057be",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021459406,
+          "stop" : 1732021459414,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getOrderStatusBreakdown_shouldReturnOrderStatusData",
+        "uid" : "c21d0c061665e5c5",
+        "parentUid" : "602935de6cec542ce21bd3fd5a9057be",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021459421,
+          "stop" : 1732021459429,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getTopSellingProducts_shouldReturnTopSellingProducts",
+        "uid" : "7caea2c8b33826bd",
+        "parentUid" : "602935de6cec542ce21bd3fd5a9057be",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021459437,
+          "stop" : 1732021459443,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "602935de6cec542ce21bd3fd5a9057be"
+    }, {
+      "name" : "EmailServiceTest",
+      "children" : [ {
+        "name" : "sendMail_shouldSendEmail",
+        "uid" : "35677f95a074d789",
+        "parentUid" : "bef6877964cbb33d0e18e3fa23e62c49",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021459465,
+          "stop" : 1732021459652,
+          "duration" : 187
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "sendPasswordToEmail_shouldSendPasswordEmail",
+        "uid" : "d4e8a6365cb439b1",
+        "parentUid" : "bef6877964cbb33d0e18e3fa23e62c49",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021459658,
+          "stop" : 1732021459663,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bef6877964cbb33d0e18e3fa23e62c49"
+    }, {
+      "name" : "FeedbackServiceTest",
+      "children" : [ {
+        "name" : "createFeedback_shouldThrowNotFoundException_whenUserOrProductNotFound",
+        "uid" : "45b0dea7a3ec7453",
+        "parentUid" : "1cdd98d74e434c754e9bdc0f056439c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021459703,
+          "stop" : 1732021459954,
+          "duration" : 251
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getAll_shouldReturnAllFeedbacks",
+        "uid" : "de9b6790409b2328",
+        "parentUid" : "1cdd98d74e434c754e9bdc0f056439c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021459959,
+          "stop" : 1732021459964,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createFeedback_shouldSaveFeedback",
+        "uid" : "e9c1dcd996f98bf9",
+        "parentUid" : "1cdd98d74e434c754e9bdc0f056439c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021459971,
+          "stop" : 1732021459976,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getFeedbacksByProductId_shouldReturnFeedbacks",
+        "uid" : "fae7ef31d1d520f8",
+        "parentUid" : "1cdd98d74e434c754e9bdc0f056439c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021459981,
+          "stop" : 1732021459986,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1cdd98d74e434c754e9bdc0f056439c3"
+    }, {
+      "name" : "IKoiFishServiceTest",
+      "children" : [ {
+        "name" : "getKoiFishsByPondId_shouldReturnPageOfKoiFish",
+        "uid" : "ad49e54a5d7c1b3c",
+        "parentUid" : "92d2dad96f52bae323e11133acb929e8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021460172,
+          "stop" : 1732021460954,
+          "duration" : 782
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "evaluateAndUpdateKoiGrowthStatus_shouldUpdateStatus",
+        "uid" : "7189b9c161732ef7",
+        "parentUid" : "92d2dad96f52bae323e11133acb929e8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021460962,
+          "stop" : 1732021460975,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "addKoiFish_shouldThrowNotFoundException_whenUserNotFound",
+        "uid" : "8ff25d60c930999c",
+        "parentUid" : "92d2dad96f52bae323e11133acb929e8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021460982,
+          "stop" : 1732021460989,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "deleteKoiFish_shouldDeleteKoiFish",
+        "uid" : "5138b8c02706ee29",
+        "parentUid" : "92d2dad96f52bae323e11133acb929e8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021460999,
+          "stop" : 1732021461019,
+          "duration" : 20
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getKoiFish_shouldThrowNotFoundException_whenKoiFishNotFound",
+        "uid" : "269165eb8fa310c",
+        "parentUid" : "92d2dad96f52bae323e11133acb929e8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021461026,
+          "stop" : 1732021461037,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getKoiFish_shouldReturnKoiFish",
+        "uid" : "f982a80ebc067ce6",
+        "parentUid" : "92d2dad96f52bae323e11133acb929e8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021461047,
+          "stop" : 1732021461061,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "92d2dad96f52bae323e11133acb929e8"
+    }, {
+      "name" : "IPondServiceTest",
+      "children" : [ {
+        "name" : "deletePond_shouldDeletePond",
+        "uid" : "32b75c4a5ce6fb50",
+        "parentUid" : "de94940fb174e6ec6014406d6872bffb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021461124,
+          "stop" : 1732021461521,
+          "duration" : 397
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getPond_shouldThrowNotFoundException_whenPondNotFound",
+        "uid" : "2569a7d42dab35ed",
+        "parentUid" : "de94940fb174e6ec6014406d6872bffb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021461528,
+          "stop" : 1732021461538,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getPond_shouldReturnPond",
+        "uid" : "afa6e0366c202fec",
+        "parentUid" : "de94940fb174e6ec6014406d6872bffb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021461545,
+          "stop" : 1732021461554,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "updatePond_shouldThrowNotFoundException_whenUserNotFound",
+        "uid" : "72de62481bb7a8ec",
+        "parentUid" : "de94940fb174e6ec6014406d6872bffb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021461561,
+          "stop" : 1732021461572,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "addPond_shouldThrowNotFoundException_whenUserNotFound",
+        "uid" : "2156d864f91713fd",
+        "parentUid" : "de94940fb174e6ec6014406d6872bffb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021461578,
+          "stop" : 1732021461586,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "updatePond_shouldThrowAlreadyExistedException_whenPondNameExists",
+        "uid" : "533d27cee4a88f21",
+        "parentUid" : "de94940fb174e6ec6014406d6872bffb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021461592,
+          "stop" : 1732021461603,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getPonds_withPagination_shouldReturnPageOfPonds",
+        "uid" : "989b9f1e34a65721",
+        "parentUid" : "de94940fb174e6ec6014406d6872bffb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021461610,
+          "stop" : 1732021461617,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getPonds_shouldReturnListOfPonds",
+        "uid" : "7224ca14bda77883",
+        "parentUid" : "de94940fb174e6ec6014406d6872bffb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021461624,
+          "stop" : 1732021461632,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "deletePond_shouldThrowNotFoundException_whenPondNotFound",
+        "uid" : "67d44366286b73c",
+        "parentUid" : "de94940fb174e6ec6014406d6872bffb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021461639,
+          "stop" : 1732021461646,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "addPond_shouldThrowAlreadyExistedException_whenPondNameExists",
+        "uid" : "517caf5c79099d9f",
+        "parentUid" : "de94940fb174e6ec6014406d6872bffb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021461654,
+          "stop" : 1732021461661,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "de94940fb174e6ec6014406d6872bffb"
+    }, {
+      "name" : "IWaterParameterServiceTest",
+      "children" : [ {
+        "name" : "saveWaterParameter_shouldSaveNewWaterParameter",
+        "uid" : "4a892a96a779e2ad",
+        "parentUid" : "00de7eff3e49b9078ae6218ac2aa89e0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021461692,
+          "stop" : 1732021462014,
+          "duration" : 322
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "saveWaterQualityStandard_shouldSaveQualityStandard",
+        "uid" : "53357be57fb02740",
+        "parentUid" : "00de7eff3e49b9078ae6218ac2aa89e0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021462019,
+          "stop" : 1732021462025,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getWaterParameterByPondId_shouldThrowNotFoundException_whenParameterNotFound",
+        "uid" : "6d7fe51e47bad0f1",
+        "parentUid" : "00de7eff3e49b9078ae6218ac2aa89e0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021462031,
+          "stop" : 1732021462036,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "deleteWaterParameter_shouldThrowNotFoundException_whenParameterNotFound",
+        "uid" : "e8b77ca8aa1c72da",
+        "parentUid" : "00de7eff3e49b9078ae6218ac2aa89e0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021462046,
+          "stop" : 1732021462051,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "saveWaterParameter_shouldThrowNotFoundException_whenPondNotFound",
+        "uid" : "5c5c472d04962d87",
+        "parentUid" : "00de7eff3e49b9078ae6218ac2aa89e0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021462058,
+          "stop" : 1732021462063,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getWaterParameterByPondId_shouldReturnWaterParameter",
+        "uid" : "fc2cef248c9540ac",
+        "parentUid" : "00de7eff3e49b9078ae6218ac2aa89e0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021462069,
+          "stop" : 1732021462077,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "deleteWaterParameter_shouldDeleteWaterParameter",
+        "uid" : "5f7bf8187417584",
+        "parentUid" : "00de7eff3e49b9078ae6218ac2aa89e0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021462083,
+          "stop" : 1732021462089,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getWaterQualityByPondId_shouldThrowNotFoundException_whenQualityStandardNotFound",
+        "uid" : "e04457920d8c9bf3",
+        "parentUid" : "00de7eff3e49b9078ae6218ac2aa89e0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021462098,
+          "stop" : 1732021462105,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "00de7eff3e49b9078ae6218ac2aa89e0"
+    }, {
+      "name" : "ImageServiceTest",
+      "children" : [ {
+        "name" : "getDefaultImage_shouldReturnDefaultImageUrl",
+        "uid" : "e41be26ca3e10829",
+        "parentUid" : "7d0a12391725d34ec9a255642ab35a1e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021462131,
+          "stop" : 1732021462538,
+          "duration" : 407
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "deleteImage_shouldDeleteImage",
+        "uid" : "b71a9e7933c3dccd",
+        "parentUid" : "7d0a12391725d34ec9a255642ab35a1e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021462581,
+          "stop" : 1732021462619,
+          "duration" : 38
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getFileName_shouldReturnFileName",
+        "uid" : "1bb7d94b4b87c044",
+        "parentUid" : "7d0a12391725d34ec9a255642ab35a1e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021462630,
+          "stop" : 1732021462639,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "uploadImage_shouldThrowException_whenFileIsEmpty",
+        "uid" : "b15da75c48d883b5",
+        "parentUid" : "7d0a12391725d34ec9a255642ab35a1e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021462650,
+          "stop" : 1732021462661,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "imageExists_shouldReturnTrueIfImageExists",
+        "uid" : "1281a44ae0d35c53",
+        "parentUid" : "7d0a12391725d34ec9a255642ab35a1e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021462672,
+          "stop" : 1732021462762,
+          "duration" : 90
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "updateImage_shouldThrowException_whenImageDoesNotExist",
+        "uid" : "7251ab5b1f5fd79f",
+        "parentUid" : "7d0a12391725d34ec9a255642ab35a1e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021462779,
+          "stop" : 1732021462862,
+          "duration" : 83
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "imageExists_shouldReturnFalseIfImageDoesNotExist",
+        "uid" : "e24b8f1a4ed6ccb",
+        "parentUid" : "7d0a12391725d34ec9a255642ab35a1e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021462876,
+          "stop" : 1732021462890,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "deleteImage_shouldNotThrowException_whenImageDoesNotExist",
+        "uid" : "6f863b482361935f",
+        "parentUid" : "7d0a12391725d34ec9a255642ab35a1e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021462903,
+          "stop" : 1732021462926,
+          "duration" : 23
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "uploadImage_shouldSaveImageAndReturnUrl",
+        "uid" : "42fa6872e0854cc7",
+        "parentUid" : "7d0a12391725d34ec9a255642ab35a1e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021462933,
+          "stop" : 1732021462966,
+          "duration" : 33
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7d0a12391725d34ec9a255642ab35a1e"
+    }, {
+      "name" : "OrderServiceTest",
+      "children" : [ {
+        "name" : "getOrderById_ShouldReturnOrder_WhenExists",
+        "uid" : "ef8649c3fa3faf1e",
+        "parentUid" : "e5657b489fff8bf45edb627ce807df1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021463094,
+          "stop" : 1732021463561,
+          "duration" : 467
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createOrder_ShouldThrowNotFoundException_WhenCartIsEmpty",
+        "uid" : "d92207491f698931",
+        "parentUid" : "e5657b489fff8bf45edb627ce807df1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021463568,
+          "stop" : 1732021463581,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "cancelPendingOrder_ShouldThrowIllegalStateException_WhenOrderIsNotPending",
+        "uid" : "3ed11a277afcc600",
+        "parentUid" : "e5657b489fff8bf45edb627ce807df1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021463600,
+          "stop" : 1732021463644,
+          "duration" : 44
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "cancelPendingOrder_ShouldThrowNotFoundException_WhenOrderDoesNotExist",
+        "uid" : "c222d41c6587c983",
+        "parentUid" : "e5657b489fff8bf45edb627ce807df1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021463683,
+          "stop" : 1732021463714,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createOrder_ShouldCreateOrder_WhenCartIsValid",
+        "uid" : "b33f70c9afb68546",
+        "parentUid" : "e5657b489fff8bf45edb627ce807df1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021463732,
+          "stop" : 1732021463732,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createOrder_ShouldThrowBadRequestException_WhenCartHasDisabledItems",
+        "uid" : "e48ffec88a073116",
+        "parentUid" : "e5657b489fff8bf45edb627ce807df1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021463746,
+          "stop" : 1732021463809,
+          "duration" : 63
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e5657b489fff8bf45edb627ce807df1d"
+    }, {
+      "name" : "PackageServiceTest",
+      "children" : [ {
+        "name" : "getPackageById_ShouldReturnPackage_WhenExists",
+        "uid" : "9815ffb1b2bb432a",
+        "parentUid" : "7bd3083777e7ac87c7b7ad37f2e9bbda",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021463913,
+          "stop" : 1732021464236,
+          "duration" : 323
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkFishLimit_ShouldReturnTrue_WhenFishCountMeetsLimit",
+        "uid" : "22aa56f2cff6d555",
+        "parentUid" : "7bd3083777e7ac87c7b7ad37f2e9bbda",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021464247,
+          "stop" : 1732021464254,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createPackage_ShouldThrowException_WhenDefaultPackageExists",
+        "uid" : "c56eb18dc04feec5",
+        "parentUid" : "7bd3083777e7ac87c7b7ad37f2e9bbda",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021464261,
+          "stop" : 1732021464269,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getAllPackages_ShouldReturnListOfPackages",
+        "uid" : "e9d6ab3e007691fa",
+        "parentUid" : "7bd3083777e7ac87c7b7ad37f2e9bbda",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021464276,
+          "stop" : 1732021464283,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "deletePackage_ShouldThrowException_WhenDefaultPackage",
+        "uid" : "3c6fac853f5d95ce",
+        "parentUid" : "7bd3083777e7ac87c7b7ad37f2e9bbda",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021464290,
+          "stop" : 1732021464297,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkPondLimit_ShouldReturnFalse_WhenPondCountExceedsLimit",
+        "uid" : "cf797de79c5f0f85",
+        "parentUid" : "7bd3083777e7ac87c7b7ad37f2e9bbda",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021464305,
+          "stop" : 1732021464312,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getPackageById_ShouldThrowException_WhenNotExists",
+        "uid" : "2f60b630ba749f98",
+        "parentUid" : "7bd3083777e7ac87c7b7ad37f2e9bbda",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021464320,
+          "stop" : 1732021464328,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createPackage_ShouldCreatePackage_WhenValid",
+        "uid" : "255c2772b3ee3d9a",
+        "parentUid" : "7bd3083777e7ac87c7b7ad37f2e9bbda",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021464336,
+          "stop" : 1732021464344,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7bd3083777e7ac87c7b7ad37f2e9bbda"
+    }, {
+      "name" : "ProductServiceTest",
+      "children" : [ {
+        "name" : "createProduct_ShouldSaveProduct_WhenImageIsProvided",
+        "uid" : "870f407c147d8cad",
+        "parentUid" : "477b60830d5905a2b1fcc01a35c169d3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021464455,
+          "stop" : 1732021464592,
+          "duration" : 137
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "isProductIsDisabledFromCart_ShouldReturnFalse_WhenNoDisabledProducts",
+        "uid" : "50646a1aa5223db",
+        "parentUid" : "477b60830d5905a2b1fcc01a35c169d3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021464599,
+          "stop" : 1732021464608,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "updateProduct_ShouldUpdateProduct_WhenProductExists",
+        "uid" : "7f81e7b0be2c750d",
+        "parentUid" : "477b60830d5905a2b1fcc01a35c169d3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021464615,
+          "stop" : 1732021464640,
+          "duration" : 25
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "isProductIsDisabledFromCart_ShouldReturnTrue_WhenDisabledProductExists",
+        "uid" : "c56d129a1bb741a6",
+        "parentUid" : "477b60830d5905a2b1fcc01a35c169d3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021464646,
+          "stop" : 1732021464656,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "updateProduct_ShouldThrowNotFoundException_WhenProductDoesNotExist",
+        "uid" : "253ea75269f012b8",
+        "parentUid" : "477b60830d5905a2b1fcc01a35c169d3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021464666,
+          "stop" : 1732021464674,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getProduct_ShouldReturnProduct_WhenExists",
+        "uid" : "46b43722b52fda11",
+        "parentUid" : "477b60830d5905a2b1fcc01a35c169d3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021464683,
+          "stop" : 1732021464692,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getProduct_ShouldThrowNotFoundException_WhenNotExists",
+        "uid" : "19ef6e9ede82774a",
+        "parentUid" : "477b60830d5905a2b1fcc01a35c169d3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021464704,
+          "stop" : 1732021464719,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createProduct_ShouldSaveProduct_WhenNoImageProvided",
+        "uid" : "a9ac0cb3b1ec783e",
+        "parentUid" : "477b60830d5905a2b1fcc01a35c169d3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021464726,
+          "stop" : 1732021464736,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "deleteProduct_ShouldDeleteProduct_WhenProductExists",
+        "uid" : "5a69ee2bbbd51c92",
+        "parentUid" : "477b60830d5905a2b1fcc01a35c169d3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021464743,
+          "stop" : 1732021464754,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "deleteProduct_ShouldThrowNotFoundException_WhenProductDoesNotExist",
+        "uid" : "6affc2192a342cb3",
+        "parentUid" : "477b60830d5905a2b1fcc01a35c169d3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021464760,
+          "stop" : 1732021464767,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "477b60830d5905a2b1fcc01a35c169d3"
+    }, {
+      "name" : "ScheduledTasksServiceTest",
+      "children" : [ {
+        "name" : "simulatorDeliveredOrders_ShouldUpdateOrderStatus",
+        "uid" : "8edd6b31728619c9",
+        "parentUid" : "3f23f492367fbbc6d1e2a0718350e0f8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021464789,
+          "stop" : 1732021465074,
+          "duration" : 285
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3f23f492367fbbc6d1e2a0718350e0f8"
+    }, {
+      "name" : "UserServiceTest",
+      "children" : [ {
+        "name" : "updatePassword_ShouldUpdatePassword_WhenUserExists",
+        "uid" : "f49d50ca7755e79e",
+        "parentUid" : "8685d6b73d70ba551d69e5c66b812f3c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021465164,
+          "stop" : 1732021465476,
+          "duration" : 312
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "updatePassword_ShouldThrowNotFoundException_WhenUserDoesNotExist",
+        "uid" : "45635fba46a4b746",
+        "parentUid" : "8685d6b73d70ba551d69e5c66b812f3c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021465488,
+          "stop" : 1732021465492,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "updateUser_ShouldUpdateUser_WhenUserExists",
+        "uid" : "8b3c60695f594844",
+        "parentUid" : "8685d6b73d70ba551d69e5c66b812f3c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021465505,
+          "stop" : 1732021465514,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "deleteUser_ShouldThrowNotFoundException_WhenUserDoesNotExist",
+        "uid" : "71cb166b4e87d018",
+        "parentUid" : "8685d6b73d70ba551d69e5c66b812f3c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021465516,
+          "stop" : 1732021465530,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getUser_ShouldReturnUser_WhenUserExists",
+        "uid" : "ecc3914c0fe01177",
+        "parentUid" : "8685d6b73d70ba551d69e5c66b812f3c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021465540,
+          "stop" : 1732021465544,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "deleteUser_ShouldDeleteUser_WhenUserExists",
+        "uid" : "8d914a57fa1aeee4",
+        "parentUid" : "8685d6b73d70ba551d69e5c66b812f3c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021465544,
+          "stop" : 1732021465556,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "getUser_ShouldThrowNotFoundException_WhenUserDoesNotExist",
+        "uid" : "55e8908b51e749fe",
+        "parentUid" : "8685d6b73d70ba551d69e5c66b812f3c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732021465568,
+          "stop" : 1732021465572,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8685d6b73d70ba551d69e5c66b812f3c"
+    } ],
+    "uid" : "com.services"
+  } ]
+}

@@ -1,0 +1,57 @@
+{
+  "uid" : "cf797de79c5f0f85",
+  "name" : "Check Pond Limit - Should return false when pond exceeds limit",
+  "fullName" : "com.services.PackageServiceTest.checkPondLimit_ShouldReturnFalse_WhenPondCountExceedsLimit",
+  "historyId" : "bb9f85f8411bd737d337e7ca1181a53b",
+  "time" : {
+    "start" : 1732021464305,
+    "stop" : 1732021464312,
+    "duration" : 7
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.PackageServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.PackageServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkPondLimit_ShouldReturnFalse_WhenPondCountExceedsLimit"
+  }, {
+    "name" : "suite",
+    "value" : "Package Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cf797de79c5f0f85.json",
+  "parameterValues" : [ ]
+}

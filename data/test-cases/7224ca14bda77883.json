@@ -1,0 +1,57 @@
+{
+  "uid" : "7224ca14bda77883",
+  "name" : "Get Ponds - Should return list of ponds",
+  "fullName" : "com.services.IPondServiceTest.getPonds_shouldReturnListOfPonds",
+  "historyId" : "a5e04a420fb968ad53ebc29bc8fd9c3c",
+  "time" : {
+    "start" : 1732021461624,
+    "stop" : 1732021461632,
+    "duration" : 8
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.IPondServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.IPondServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getPonds_shouldReturnListOfPonds"
+  }, {
+    "name" : "suite",
+    "value" : "Pond Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7224ca14bda77883.json",
+  "parameterValues" : [ ]
+}

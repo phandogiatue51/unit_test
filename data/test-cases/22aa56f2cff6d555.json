@@ -1,0 +1,57 @@
+{
+  "uid" : "22aa56f2cff6d555",
+  "name" : "Check Fish Limit - Should return true when fish meet limit",
+  "fullName" : "com.services.PackageServiceTest.checkFishLimit_ShouldReturnTrue_WhenFishCountMeetsLimit",
+  "historyId" : "f7539613c8b1893d49d6fce9c0db7e7e",
+  "time" : {
+    "start" : 1732021464247,
+    "stop" : 1732021464254,
+    "duration" : 7
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.PackageServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.PackageServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkFishLimit_ShouldReturnTrue_WhenFishCountMeetsLimit"
+  }, {
+    "name" : "suite",
+    "value" : "Package Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "22aa56f2cff6d555.json",
+  "parameterValues" : [ ]
+}

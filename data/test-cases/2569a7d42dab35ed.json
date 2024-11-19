@@ -1,0 +1,57 @@
+{
+  "uid" : "2569a7d42dab35ed",
+  "name" : "Get Pond - Should throw NotFound when pond not found",
+  "fullName" : "com.services.IPondServiceTest.getPond_shouldThrowNotFoundException_whenPondNotFound",
+  "historyId" : "9a80e6e5832cc5cd525ac2fd6645ab28",
+  "time" : {
+    "start" : 1732021461528,
+    "stop" : 1732021461538,
+    "duration" : 10
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.IPondServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.IPondServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getPond_shouldThrowNotFoundException_whenPondNotFound"
+  }, {
+    "name" : "suite",
+    "value" : "Pond Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2569a7d42dab35ed.json",
+  "parameterValues" : [ ]
+}

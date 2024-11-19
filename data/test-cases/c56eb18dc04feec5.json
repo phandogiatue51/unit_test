@@ -1,0 +1,57 @@
+{
+  "uid" : "c56eb18dc04feec5",
+  "name" : "Create Package - Should throw exception when default package exists",
+  "fullName" : "com.services.PackageServiceTest.createPackage_ShouldThrowException_WhenDefaultPackageExists",
+  "historyId" : "7684bcad36a701e2dbf1b1854063139d",
+  "time" : {
+    "start" : 1732021464261,
+    "stop" : 1732021464269,
+    "duration" : 8
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.PackageServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.PackageServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "createPackage_ShouldThrowException_WhenDefaultPackageExists"
+  }, {
+    "name" : "suite",
+    "value" : "Package Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c56eb18dc04feec5.json",
+  "parameterValues" : [ ]
+}

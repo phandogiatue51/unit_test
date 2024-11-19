@@ -1,0 +1,57 @@
+{
+  "uid" : "255c2772b3ee3d9a",
+  "name" : "Create Package - Should create package when valid",
+  "fullName" : "com.services.PackageServiceTest.createPackage_ShouldCreatePackage_WhenValid",
+  "historyId" : "3a05b2e02ed06ad25e97409c7d0f0e2b",
+  "time" : {
+    "start" : 1732021464336,
+    "stop" : 1732021464344,
+    "duration" : 8
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.PackageServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.PackageServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "createPackage_ShouldCreatePackage_WhenValid"
+  }, {
+    "name" : "suite",
+    "value" : "Package Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "255c2772b3ee3d9a.json",
+  "parameterValues" : [ ]
+}

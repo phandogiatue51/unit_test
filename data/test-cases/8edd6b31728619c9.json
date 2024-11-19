@@ -1,0 +1,57 @@
+{
+  "uid" : "8edd6b31728619c9",
+  "name" : "Simulator Delivered Order - Update order status",
+  "fullName" : "com.services.ScheduledTasksServiceTest.simulatorDeliveredOrders_ShouldUpdateOrderStatus",
+  "historyId" : "6a8d168fe309453d98b6b35b85a2d7fe",
+  "time" : {
+    "start" : 1732021464789,
+    "stop" : 1732021465074,
+    "duration" : 285
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.ScheduledTasksServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.ScheduledTasksServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "simulatorDeliveredOrders_ShouldUpdateOrderStatus"
+  }, {
+    "name" : "suite",
+    "value" : "Sheduled Tasks Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8edd6b31728619c9.json",
+  "parameterValues" : [ ]
+}

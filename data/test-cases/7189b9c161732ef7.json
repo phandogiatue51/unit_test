@@ -1,0 +1,57 @@
+{
+  "uid" : "7189b9c161732ef7",
+  "name" : "Evaluate and Update Koi Growth Status - Should update status",
+  "fullName" : "com.services.IKoiFishServiceTest.evaluateAndUpdateKoiGrowthStatus_shouldUpdateStatus",
+  "historyId" : "6b004b6603de185e11b4590652e30c98",
+  "time" : {
+    "start" : 1732021460962,
+    "stop" : 1732021460975,
+    "duration" : 13
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.IKoiFishServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.IKoiFishServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "evaluateAndUpdateKoiGrowthStatus_shouldUpdateStatus"
+  }, {
+    "name" : "suite",
+    "value" : "Koi Fish Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7189b9c161732ef7.json",
+  "parameterValues" : [ ]
+}

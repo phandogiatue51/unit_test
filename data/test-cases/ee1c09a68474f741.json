@@ -1,0 +1,57 @@
+{
+  "uid" : "ee1c09a68474f741",
+  "name" : "Create Blog - Should throw BadRequestException when title exists",
+  "fullName" : "com.services.BlogServiceTest.createBlog_shouldThrowBadRequest_whenTitleExists",
+  "historyId" : "e19a549bbf6234ead29085223f968b13",
+  "time" : {
+    "start" : 1732021457532,
+    "stop" : 1732021457550,
+    "duration" : 18
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.BlogServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.BlogServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "createBlog_shouldThrowBadRequest_whenTitleExists"
+  }, {
+    "name" : "suite",
+    "value" : "Blog Service Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ee1c09a68474f741.json",
+  "parameterValues" : [ ]
+}

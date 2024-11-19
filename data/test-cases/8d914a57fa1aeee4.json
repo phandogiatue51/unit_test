@@ -1,0 +1,57 @@
+{
+  "uid" : "8d914a57fa1aeee4",
+  "name" : "Delete User - Should delete user when user exists",
+  "fullName" : "com.services.UserServiceTest.deleteUser_ShouldDeleteUser_WhenUserExists",
+  "historyId" : "833f93dac932369f524e61fe995f3766",
+  "time" : {
+    "start" : 1732021465544,
+    "stop" : 1732021465556,
+    "duration" : 12
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.UserServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.UserServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "deleteUser_ShouldDeleteUser_WhenUserExists"
+  }, {
+    "name" : "suite",
+    "value" : "User Service Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8d914a57fa1aeee4.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,57 @@
+{
+  "uid" : "962e7978cf38c397",
+  "name" : "Get User Growth Data - Return user growth data",
+  "fullName" : "com.services.DashboardServiceTest.getUserGrowthData_shouldReturnUserGrowthData",
+  "historyId" : "1f82d1aa1ff8ea87fb23185e773a119a",
+  "time" : {
+    "start" : 1732021458791,
+    "stop" : 1732021459399,
+    "duration" : 608
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.DashboardServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.DashboardServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getUserGrowthData_shouldReturnUserGrowthData"
+  }, {
+    "name" : "suite",
+    "value" : "Dashboard Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "962e7978cf38c397.json",
+  "parameterValues" : [ ]
+}

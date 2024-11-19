@@ -1,0 +1,57 @@
+{
+  "uid" : "42fa6872e0854cc7",
+  "name" : "Upload Image - Should save image",
+  "fullName" : "com.services.ImageServiceTest.uploadImage_shouldSaveImageAndReturnUrl",
+  "historyId" : "110f40a78adc3049604484cf90d08c99",
+  "time" : {
+    "start" : 1732021462933,
+    "stop" : 1732021462966,
+    "duration" : 33
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.ImageServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.ImageServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "uploadImage_shouldSaveImageAndReturnUrl"
+  }, {
+    "name" : "suite",
+    "value" : "Image Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "42fa6872e0854cc7.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,57 @@
+{
+  "uid" : "b33f70c9afb68546",
+  "name" : "Create Order - Should create order when cart is valid",
+  "fullName" : "com.services.OrderServiceTest.createOrder_ShouldCreateOrder_WhenCartIsValid",
+  "historyId" : "4a5e6885e7a21ea92f3d8bd9035a5b15",
+  "time" : {
+    "start" : 1732021463732,
+    "stop" : 1732021463732,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.OrderServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.OrderServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "createOrder_ShouldCreateOrder_WhenCartIsValid"
+  }, {
+    "name" : "suite",
+    "value" : "Order Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b33f70c9afb68546.json",
+  "parameterValues" : [ ]
+}

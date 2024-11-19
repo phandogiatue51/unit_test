@@ -1,0 +1,57 @@
+{
+  "uid" : "9ce421c75cb38d10",
+  "name" : "Get Blog By Slug - Should throw NotFoundException when no blog is found",
+  "fullName" : "com.services.BlogServiceTest.getBlogBySlug_shouldThrowNotFound_whenNoBlogFound",
+  "historyId" : "28a5f4593a0cbee81d1241b68fb58fe",
+  "time" : {
+    "start" : 1732021457561,
+    "stop" : 1732021457578,
+    "duration" : 17
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.BlogServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.BlogServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getBlogBySlug_shouldThrowNotFound_whenNoBlogFound"
+  }, {
+    "name" : "suite",
+    "value" : "Blog Service Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9ce421c75cb38d10.json",
+  "parameterValues" : [ ]
+}

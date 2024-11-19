@@ -1,0 +1,57 @@
+{
+  "uid" : "b30a8b2ebbd4cc48",
+  "name" : "Create Blog - Should save blog when input is valid",
+  "fullName" : "com.services.BlogServiceTest.createBlog_shouldSaveBlog_whenValidInput",
+  "historyId" : "657a9db0025a0d2391ad8b5fafd00566",
+  "time" : {
+    "start" : 1732021457370,
+    "stop" : 1732021457518,
+    "duration" : 148
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.BlogServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.BlogServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "createBlog_shouldSaveBlog_whenValidInput"
+  }, {
+    "name" : "suite",
+    "value" : "Blog Service Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b30a8b2ebbd4cc48.json",
+  "parameterValues" : [ ]
+}

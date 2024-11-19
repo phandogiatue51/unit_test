@@ -1,0 +1,57 @@
+{
+  "uid" : "7f81e7b0be2c750d",
+  "name" : "Update Product - Should update product when products exist",
+  "fullName" : "com.services.ProductServiceTest.updateProduct_ShouldUpdateProduct_WhenProductExists",
+  "historyId" : "fa63011dd98f055fafd309b467fd38e",
+  "time" : {
+    "start" : 1732021464615,
+    "stop" : 1732021464640,
+    "duration" : 25
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.ProductServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.ProductServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "updateProduct_ShouldUpdateProduct_WhenProductExists"
+  }, {
+    "name" : "suite",
+    "value" : "Product Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7f81e7b0be2c750d.json",
+  "parameterValues" : [ ]
+}

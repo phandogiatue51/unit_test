@@ -1,0 +1,57 @@
+{
+  "uid" : "50646a1aa5223db",
+  "name" : "Disable Product From Cart - Should return false when no disabled products",
+  "fullName" : "com.services.ProductServiceTest.isProductIsDisabledFromCart_ShouldReturnFalse_WhenNoDisabledProducts",
+  "historyId" : "f753ef8ceb6b3ccced1bfb0536239e02",
+  "time" : {
+    "start" : 1732021464599,
+    "stop" : 1732021464608,
+    "duration" : 9
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.ProductServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.ProductServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "isProductIsDisabledFromCart_ShouldReturnFalse_WhenNoDisabledProducts"
+  }, {
+    "name" : "suite",
+    "value" : "Product Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "50646a1aa5223db.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,57 @@
+{
+  "uid" : "7251ab5b1f5fd79f",
+  "name" : "Update Image - Should update image",
+  "fullName" : "com.services.ImageServiceTest.updateImage_shouldThrowException_whenImageDoesNotExist",
+  "historyId" : "8c83d4f5712fcd3595fc8b14baaf77eb",
+  "time" : {
+    "start" : 1732021462779,
+    "stop" : 1732021462862,
+    "duration" : 83
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.ImageServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.ImageServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "updateImage_shouldThrowException_whenImageDoesNotExist"
+  }, {
+    "name" : "suite",
+    "value" : "Image Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7251ab5b1f5fd79f.json",
+  "parameterValues" : [ ]
+}

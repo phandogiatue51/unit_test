@@ -1,0 +1,57 @@
+{
+  "uid" : "269165eb8fa310c",
+  "name" : "Get Koi Fish - Should throw NotFound when koi fish not found",
+  "fullName" : "com.services.IKoiFishServiceTest.getKoiFish_shouldThrowNotFoundException_whenKoiFishNotFound",
+  "historyId" : "146ffa554a753619f96f547c0e436a6d",
+  "time" : {
+    "start" : 1732021461026,
+    "stop" : 1732021461037,
+    "duration" : 11
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.IKoiFishServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.IKoiFishServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getKoiFish_shouldThrowNotFoundException_whenKoiFishNotFound"
+  }, {
+    "name" : "suite",
+    "value" : "Koi Fish Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "269165eb8fa310c.json",
+  "parameterValues" : [ ]
+}

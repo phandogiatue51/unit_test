@@ -1,0 +1,57 @@
+{
+  "uid" : "ad49e54a5d7c1b3c",
+  "name" : "Get Koi Fish by User - Should return page of koi fish",
+  "fullName" : "com.services.IKoiFishServiceTest.getKoiFishsByPondId_shouldReturnPageOfKoiFish",
+  "historyId" : "6abd34d2b2d2677d1fc936599ebaceff",
+  "time" : {
+    "start" : 1732021460172,
+    "stop" : 1732021460954,
+    "duration" : 782
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.IKoiFishServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.IKoiFishServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getKoiFishsByPondId_shouldReturnPageOfKoiFish"
+  }, {
+    "name" : "suite",
+    "value" : "Koi Fish Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ad49e54a5d7c1b3c.json",
+  "parameterValues" : [ ]
+}

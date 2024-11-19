@@ -1,0 +1,57 @@
+{
+  "uid" : "517caf5c79099d9f",
+  "name" : "Add Pond - Should throw AlreadyExisted when pond name exists",
+  "fullName" : "com.services.IPondServiceTest.addPond_shouldThrowAlreadyExistedException_whenPondNameExists",
+  "historyId" : "8196ace578a8ff801b21c45766dc9029",
+  "time" : {
+    "start" : 1732021461654,
+    "stop" : 1732021461661,
+    "duration" : 7
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.IPondServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.IPondServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "addPond_shouldThrowAlreadyExistedException_whenPondNameExists"
+  }, {
+    "name" : "suite",
+    "value" : "Pond Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "517caf5c79099d9f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,57 @@
+{
+  "uid" : "30f18e78fb3ebe3b",
+  "name" : "Delete Category - Should delete the category when exists",
+  "fullName" : "com.services.CategoryServiceTest.deleteCategory_shouldDeleteCategory_whenExists",
+  "historyId" : "6da958dda13f79b117f62d92ac46df1",
+  "time" : {
+    "start" : 1732021458637,
+    "stop" : 1732021458643,
+    "duration" : 6
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.CategoryServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.CategoryServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "deleteCategory_shouldDeleteCategory_whenExists"
+  }, {
+    "name" : "suite",
+    "value" : "Category Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "30f18e78fb3ebe3b.json",
+  "parameterValues" : [ ]
+}

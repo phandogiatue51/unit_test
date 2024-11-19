@@ -1,0 +1,57 @@
+{
+  "uid" : "d4e8a6365cb439b1",
+  "name" : "Send Password - Send Password Email",
+  "fullName" : "com.services.EmailServiceTest.sendPasswordToEmail_shouldSendPasswordEmail",
+  "historyId" : "b3bb0ab946f2f56dbaf4e5b58b9e3f4e",
+  "time" : {
+    "start" : 1732021459658,
+    "stop" : 1732021459663,
+    "duration" : 5
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.EmailServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.EmailServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "sendPasswordToEmail_shouldSendPasswordEmail"
+  }, {
+    "name" : "suite",
+    "value" : "Email Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d4e8a6365cb439b1.json",
+  "parameterValues" : [ ]
+}

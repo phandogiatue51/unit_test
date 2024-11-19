@@ -1,0 +1,57 @@
+{
+  "uid" : "3ed11a277afcc600",
+  "name" : "Cancel Pending Order - Should throw IllegalStateException when order is not pending",
+  "fullName" : "com.services.OrderServiceTest.cancelPendingOrder_ShouldThrowIllegalStateException_WhenOrderIsNotPending",
+  "historyId" : "bdd865501ceafa4ccc2ffe60f55dd5dc",
+  "time" : {
+    "start" : 1732021463600,
+    "stop" : 1732021463644,
+    "duration" : 44
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.OrderServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.OrderServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "cancelPendingOrder_ShouldThrowIllegalStateException_WhenOrderIsNotPending"
+  }, {
+    "name" : "suite",
+    "value" : "Order Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3ed11a277afcc600.json",
+  "parameterValues" : [ ]
+}

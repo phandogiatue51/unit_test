@@ -1,0 +1,57 @@
+{
+  "uid" : "d92207491f698931",
+  "name" : "Create Order - Should throw NotFound when cart is empty",
+  "fullName" : "com.services.OrderServiceTest.createOrder_ShouldThrowNotFoundException_WhenCartIsEmpty",
+  "historyId" : "42ec2341be21e993cda6324e98b07201",
+  "time" : {
+    "start" : 1732021463568,
+    "stop" : 1732021463581,
+    "duration" : 13
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.OrderServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.OrderServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "createOrder_ShouldThrowNotFoundException_WhenCartIsEmpty"
+  }, {
+    "name" : "suite",
+    "value" : "Order Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d92207491f698931.json",
+  "parameterValues" : [ ]
+}

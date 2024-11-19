@@ -1,0 +1,57 @@
+{
+  "uid" : "e48ffec88a073116",
+  "name" : "Create Order - Should throw BadRequest when cart has disabled items",
+  "fullName" : "com.services.OrderServiceTest.createOrder_ShouldThrowBadRequestException_WhenCartHasDisabledItems",
+  "historyId" : "c9dfb1e9e3062b1e0e4b9bc97427ebb0",
+  "time" : {
+    "start" : 1732021463746,
+    "stop" : 1732021463809,
+    "duration" : 63
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.OrderServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.OrderServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "createOrder_ShouldThrowBadRequestException_WhenCartHasDisabledItems"
+  }, {
+    "name" : "suite",
+    "value" : "Order Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e48ffec88a073116.json",
+  "parameterValues" : [ ]
+}

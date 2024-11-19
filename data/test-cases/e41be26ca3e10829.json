@@ -1,0 +1,57 @@
+{
+  "uid" : "e41be26ca3e10829",
+  "name" : "Get Default Image - Should return default image URL",
+  "fullName" : "com.services.ImageServiceTest.getDefaultImage_shouldReturnDefaultImageUrl",
+  "historyId" : "f72eaa6cddf6d8980959e109b7abc7a",
+  "time" : {
+    "start" : 1732021462131,
+    "stop" : 1732021462538,
+    "duration" : 407
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.ImageServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.ImageServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getDefaultImage_shouldReturnDefaultImageUrl"
+  }, {
+    "name" : "suite",
+    "value" : "Image Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e41be26ca3e10829.json",
+  "parameterValues" : [ ]
+}

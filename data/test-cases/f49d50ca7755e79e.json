@@ -1,0 +1,57 @@
+{
+  "uid" : "f49d50ca7755e79e",
+  "name" : "Update Password - Should update password when user exists",
+  "fullName" : "com.services.UserServiceTest.updatePassword_ShouldUpdatePassword_WhenUserExists",
+  "historyId" : "e68a59787eb8bd7fcd7a0110fab819aa",
+  "time" : {
+    "start" : 1732021465164,
+    "stop" : 1732021465476,
+    "duration" : 312
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.UserServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.UserServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "updatePassword_ShouldUpdatePassword_WhenUserExists"
+  }, {
+    "name" : "suite",
+    "value" : "User Service Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f49d50ca7755e79e.json",
+  "parameterValues" : [ ]
+}

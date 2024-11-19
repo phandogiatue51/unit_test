@@ -1,0 +1,57 @@
+{
+  "uid" : "16d9a0d2f95078df",
+  "name" : "Get Total Sales - Return total sales data",
+  "fullName" : "com.services.DashboardServiceTest.getTotalSales_shouldReturnTotalSalesData",
+  "historyId" : "e7080b031312c1c7130815e549c349c2",
+  "time" : {
+    "start" : 1732021459406,
+    "stop" : 1732021459414,
+    "duration" : 8
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.DashboardServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.DashboardServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getTotalSales_shouldReturnTotalSalesData"
+  }, {
+    "name" : "suite",
+    "value" : "Dashboard Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "16d9a0d2f95078df.json",
+  "parameterValues" : [ ]
+}

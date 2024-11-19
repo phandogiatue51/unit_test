@@ -1,0 +1,57 @@
+{
+  "uid" : "46b43722b52fda11",
+  "name" : "Get Product - Return product when product exists",
+  "fullName" : "com.services.ProductServiceTest.getProduct_ShouldReturnProduct_WhenExists",
+  "historyId" : "cd9004b22c2f60d669b2dcd099125947",
+  "time" : {
+    "start" : 1732021464683,
+    "stop" : 1732021464692,
+    "duration" : 9
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.ProductServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.ProductServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getProduct_ShouldReturnProduct_WhenExists"
+  }, {
+    "name" : "suite",
+    "value" : "Product Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "46b43722b52fda11.json",
+  "parameterValues" : [ ]
+}

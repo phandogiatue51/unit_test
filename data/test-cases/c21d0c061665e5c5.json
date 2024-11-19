@@ -1,0 +1,57 @@
+{
+  "uid" : "c21d0c061665e5c5",
+  "name" : "Get Order Status Breakdown - Return order status data",
+  "fullName" : "com.services.DashboardServiceTest.getOrderStatusBreakdown_shouldReturnOrderStatusData",
+  "historyId" : "8a57507e00861885649c391d850faedd",
+  "time" : {
+    "start" : 1732021459421,
+    "stop" : 1732021459429,
+    "duration" : 8
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.DashboardServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.DashboardServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "getOrderStatusBreakdown_shouldReturnOrderStatusData"
+  }, {
+    "name" : "suite",
+    "value" : "Dashboard Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c21d0c061665e5c5.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,57 @@
+{
+  "uid" : "b3d7eeca243e49ce",
+  "name" : "Add Category - Should save the category",
+  "fullName" : "com.services.CategoryServiceTest.addCategory_shouldSaveCategory",
+  "historyId" : "c72709e0e1ce90fde1efa59e3f577d17",
+  "time" : {
+    "start" : 1732021458421,
+    "stop" : 1732021458602,
+    "duration" : 181
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.CategoryServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.CategoryServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "addCategory_shouldSaveCategory"
+  }, {
+    "name" : "suite",
+    "value" : "Category Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b3d7eeca243e49ce.json",
+  "parameterValues" : [ ]
+}

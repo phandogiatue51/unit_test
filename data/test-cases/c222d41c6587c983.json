@@ -1,0 +1,57 @@
+{
+  "uid" : "c222d41c6587c983",
+  "name" : "Cancel Pending Order - Should throw NotFound when order does not exist",
+  "fullName" : "com.services.OrderServiceTest.cancelPendingOrder_ShouldThrowNotFoundException_WhenOrderDoesNotExist",
+  "historyId" : "f67fd0f99fd8ad340d404d38f488fa38",
+  "time" : {
+    "start" : 1732021463683,
+    "stop" : 1732021463714,
+    "duration" : 31
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.OrderServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.OrderServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "cancelPendingOrder_ShouldThrowNotFoundException_WhenOrderDoesNotExist"
+  }, {
+    "name" : "suite",
+    "value" : "Order Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c222d41c6587c983.json",
+  "parameterValues" : [ ]
+}

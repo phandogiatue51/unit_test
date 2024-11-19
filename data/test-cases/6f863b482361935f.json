@@ -1,0 +1,57 @@
+{
+  "uid" : "6f863b482361935f",
+  "name" : "Delete Image - Should not throw exception when image does not exist",
+  "fullName" : "com.services.ImageServiceTest.deleteImage_shouldNotThrowException_whenImageDoesNotExist",
+  "historyId" : "e880a53c184da9a9afa0058f864a1e46",
+  "time" : {
+    "start" : 1732021462903,
+    "stop" : 1732021462926,
+    "duration" : 23
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-7VNG3JI"
+  }, {
+    "name" : "thread",
+    "value" : "18568@DESKTOP-7VNG3JI.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.services.ImageServiceTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.services.ImageServiceTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "deleteImage_shouldNotThrowException_whenImageDoesNotExist"
+  }, {
+    "name" : "suite",
+    "value" : "Image Service Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6f863b482361935f.json",
+  "parameterValues" : [ ]
+}
